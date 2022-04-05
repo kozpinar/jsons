@@ -1,19 +1,19 @@
 {
     "supported_languages" : [
         {
-            "id" : "en_US",
+            "id" : "en",
             "text" : "English"
         },
         {
-            "id" : "uk_UA",
+            "id" : "uk",
             "text" : "УКРАЇНСЬКИЙ"
         },
         {
-            "id" : "ru_RU",
+            "id" : "ru",
             "text" : "РУССКИЙ"
         },
         {
-            "id" : "ro_RO",
+            "id" : "ro",
             "text" : "ROMÂNĂ"
         }
     ],
