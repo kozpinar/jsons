@@ -1,0 +1,37 @@
+{
+    "supported_languages" : [
+        {
+            "id" : "en_US",
+            "text" : "English"
+        },
+        {
+            "id" : "uk_UA",
+            "text" : "УКРАЇНСЬКИЙ"
+        },
+        {
+            "id" : "ru_RU",
+            "text" : "РУССКИЙ"
+        },
+        {
+            "id" : "ro_RO",
+            "text" : "ROMÂNĂ"
+        }
+    ],
+    "landing_title" : "Ukrainian Financial Assistance Programme",
+    "landing_description" : "Romanian Red Cross Cash Assistance Programs provide additional support to large Ukrainian families affected by the war. At the first stage, more than 50,000 families with children will receive assistance...",
+    "",
+    "landing_continue_button" : "START REGISTRATION",
+    "consent_title" : "Consent to the Collection & Processing of Personal Data",
+    "consent_description" : "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent information is collecting and processing your personal data as part of this financial assistance application process...",
+    "consent_continue_button" : "ACCEPT AND CONTINUE",
+    "consent_back_button" : "Back",
+    "consent_comm_title" : "Consent to Receive Information",
+    "consent_comm_description" : "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Viber, Telegram or email to notify you of updates to your application. You must consent to receive information via these methods...",
+    "consent_comm_continue_button" : "ACCEPT AND CONTINUE",
+    "consent_comm_back_button" : "Back",
+    "location_check_title" : "Location Check",
+    "location_check_top_description" : "When asked, please allow your browser to provide location information to us.",
+    "location_check_bottom_description" : "We use the location information as a part of the eligibility criteria and will not share your location information for any third parties.",
+    "location_check_continue_button" : "CONTINUE",
+    "location_check_back_button" : "Back"
+}
