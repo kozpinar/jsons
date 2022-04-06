@@ -51,5 +51,7 @@
     "checklist_check_children_content" : [
         "DIIA Birth Certificate OR",
         "Birth Certificate"
-    ]
+    ],
+    "checklist_continue_button" : "I HAVE ALL. LET'S START",
+    "checklist_back_button" : "BACK"
 }
