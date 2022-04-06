@@ -72,6 +72,7 @@
     "permission_location_settings_alert_desciption" : "We need this to take pictures for verification purposes.",
     "permission_location_settings_alert_ok" : "Settings",
     "permission_location_settings_alert_cancel" : "Cancel",
+    "attestation_title" : "Self Attestation",
     "attestation_questions" : [
         {
             "id" : "CurrentSitation",
