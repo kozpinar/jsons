@@ -61,7 +61,7 @@
     "permission_continue_button" : "PERMISSIONS OK",
     "permission_back_button" : "BACK",
     "permission_camera" : "Camera",
-    "permission_location" : "Location"
+    "permission_location" : "Location",
     "permission_granted" : "(Permission Granted)",
     "permission not_granted" : "(Permission Not Granted)"
 }
