@@ -29,10 +29,10 @@
     "consent_comm_continue_button" : "ACCEPT AND CONTINUE",
     "consent_comm_back_button" : "Back",
     "location_check_title" : "Location Check",
-    "location_check_top_description" : "When asked, please allow your browser to provide location information to us.",
-    "location_check_bottom_description" : "We use the location information as a part of the eligibility criteria and will not share your location information for any third parties.",
+    "location_check_description" : "When asked, please allow your browser to provide location information to us.",
+    "location_check_use_description" : "We use the location information as a part of the eligibility criteria and will not share your location information for any third parties.",
     "location_check_continue_button" : "CONTINUE",
-    "location_check_back_button" : "Back",
+    "location_check_back_button" : "BACK",
     "checklist_title" : "Checklist Before Start",
     "checklist_description_before_start" : "Before you start the registration process please make you  have everything below. Registration process will take 15~20 minutes in total.",
     "checklist_check_first_content" : [
@@ -71,10 +71,5 @@
     "permission_location_settings_alert_title" : " Give permission via Settings",
     "permission_location_settings_alert_desciption" : "We need this to take pictures for verification purposes.",
     "permission_location_settings_alert_ok" : "Settings",
-    "permission_location_settings_alert_cancel" : "Cancel",
-    "location_title" : "Location Check",
-    "location_description" : "When asked, please allow your browser to provide location information to us.",
-    "location_use_description" : "We use the location information as a part of the eligibility criteria and will not share your location information for any third parties.",
-    "location_continue_button" : "CONTINUE",
-    "location_back_button" : "BACK"
+    "permission_location_settings_alert_cancel" : "Cancel"
 }
