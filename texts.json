@@ -63,5 +63,12 @@
     "permission_camera" : "Camera",
     "permission_location" : "Location",
     "permission_granted" : "(Permission Granted)",
-    "permission_not_granted" : "(Permission Not Granted)"
+    "permission_not_granted" : "(Permission Not Granted)",
+    "permission_camera_settings_alert" : "We need this to check if you are in one of the countries covered by this assistance programme. Give permission via Settings",
+    "permission_camera_settings_alert_ok" : "Settings",
+    "permission_camera_settings_alert_cancel" : "Cancel",
+    "permission_location_settings_alert" : "We need this to take pictures for verification purposes. Give permission via Settings",
+    "permission_location_settings_alert_ok" : "Settings",
+    "permission_location_settings_alert_cancel" : "Cancel"
+
 }
