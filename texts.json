@@ -60,4 +60,6 @@
     "permission_camera_description" : "We need this to take pictures for verification purposes",
     "permission_continue_button" : "PERMISSIONS OK",
     "permission_back_button" : "BACK",
+    "permission_camera" : "Camera",
+    "permission_location" : "Location"
 }
