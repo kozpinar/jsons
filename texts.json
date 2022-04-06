@@ -23,7 +23,7 @@
     "consent_title" : "Consent to the Collection & Processing of Personal Data",
     "consent_description" : "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent information is collecting and processing your personal data as part of this financial assistance application process:\n\n1. We are collecting personal data for everyone member in your household. This includes name, date of birth\n\n2. We are collecting information about government issued identity documents: This includes QR codes from the DIIA App, photos of Ukrainian government issued identity documents such as national identification card, passports, or driver’s license.\n\n3. We collect photos of you holding your government identity documents.\n\n4. We collect your location through your mobile phone or browser.\n\nYou must consent to the collection of personal data to be able to apply for financial assistance.",
     "consent_continue_button" : "ACCEPT AND CONTINUE",
-    "consent_back_button" : "Back",
+    "consent_back_button" : "BACK",
     "consent_comm_title" : "Consent to Receive Information",
     "consent_comm_description" : "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Viber, Telegram or email to notify you of updates to your application. You must consent to receive information via these methods...",
     "consent_comm_continue_button" : "ACCEPT AND CONTINUE",
