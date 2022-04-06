@@ -63,5 +63,5 @@
     "permission_camera" : "Camera",
     "permission_location" : "Location",
     "permission_granted" : "(Permission Granted)",
-    "permission not_granted" : "(Permission Not Granted)"
+    "permission_not_granted" : "(Permission Not Granted)"
 }
