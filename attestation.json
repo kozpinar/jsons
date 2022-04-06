@@ -1,0 +1,55 @@
+{
+    "data" : [
+        {
+            "id" : "guidString",
+            "view_order" : 1,
+            "text" : "We are looking to assist those who left Ukraine due to the conflict. What best describes your current situation in Romania?",
+            "options" : [
+                {
+                    "id" : "guidString",
+                    "view_order" : 1,
+                    "text" : "I left Ukraine because of the conflict"
+                },
+                {
+                    "id" : "guidString",
+                    "view_order" : 2,
+                    "text" : "I resided in Romania before Feb 2022"
+                },
+                {
+                    "id" : "guidString",
+                    "view_order" : 3,
+                    "text" : "I was in Romania but could not return to Ukraine because of the conflict"
+                },
+                {
+                    "id" : "guidString",
+                    "view_order" : 4,
+                    "text" : "I did not leave Ukraine due to the conflict"
+                }
+            ]
+        },
+        
+        {
+            "id" : "guidString",
+            "view_order" : 2,
+            "text" : "In Romania, do you have access to health care?",
+            "options" : [
+                {
+                    "id" : "guidString",
+                    "view_order" : 1,
+                    "text" : "Yes"
+                },
+                {
+                    "id" : "guidString",
+                    "view_order" : 2,
+                    "text" : "No"
+                },
+                {
+                    "id" : "guidString",
+                    "view_order" : 3,
+                    "text" : "I don't know"
+                }
+                
+            ]
+        }
+    ]
+}
