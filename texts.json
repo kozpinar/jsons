@@ -58,6 +58,6 @@
     "permission_description" : "In order to continue with the process we need to have the following permissions from you.",
     "permission_location_description" : "We need this to check if you are in one of the countries covered by this assistance programme",
     "permission_camera_description" : "We need this to take pictures for verification purposes",
-    "permission_continue_button" : "GRANT PERMISSION",
+    "permission_continue_button" : "PERMISSIONS OK",
     "permission_back_button" : "BACK",
 }
