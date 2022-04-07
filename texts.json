@@ -143,18 +143,39 @@
         }
     ],
     "focal_point_registration_back" : "BACK",
+    "focal_point_identity" : [
+        {
+            "id" : "DocumentNumber",
+            "text" : "Document Number",
+            "hint" : "Document Number"
+        },
+        {
+            "id" : "GivenName",
+            "text" : "Given Name",
+            "hint" : "Name..."
+        },
+        {
+            "id" : "FamilyName",
+            "text" : "Family Name",
+            "hint" : "Family Name..."
+        },
+        {
+            "id" : "PatronymicName",
+            "text" : "Patronymic Name",
+            "hint" : "Patronymic Name..."
+        },
+        {
+            "id" : "Sex",
+            "text" : "Sex",
+            "hint" : ""
+        },
+        {
+            "id" : "DateOfBirth",
+            "text" : "Date of Birth",
+            "hint" : ""
+        }
+    ],
     "focal_point_identity_title" : "Focal Point Identity",
-    "focal_point_identity_document_number" : "Document Number",
-    "focal_point_identity_document_number_hint" : "Document Number",
-    "focal_point_identity_given_name" : "Given Name",
-    "focal_point_identity_given_name_hint" : "Name...",
-    "focal_point_identity_family_name" : "Family Name",
-    "focal_point_identity_family_name_hint" : "Family Name...",
-    "focal_point_identity_patrnoymic_name" : "Patronymic Name",
-    "focal_point_identity_patrnoymic_name_hint" : "Patronymic Name...",
-    "focal_point_identity_sex" : "Sex",
-    "focal_point_identity_sex_female" : "FEMALE",
-    "focal_point_identity_sex_male" : "MALE",
-    "focal_point_identity_date_of_birth" : "Date of Birth"
-    
+    "focal_point_identity_continue_button" : "CONTINUE",
+    "focal_point_identity_back_button" : "BACK",
 }
