@@ -171,12 +171,12 @@
             "type" : "HorizontalRadioButton",
             "options" : [
                 {
-                    "id" : "Yes",
-                    "text" : "YES"
-                },
-                {
                     "id" : "No",
                     "text" : "NO"
+                },
+                {
+                    "id" : "Yes",
+                    "text" : "YES"
                 }
             ]
         },
