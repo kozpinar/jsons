@@ -127,10 +127,34 @@
     "focal_point_registration_verify_title" : "How do you want to be verified?",
     "focal_point_registration_diia" : "via DIIA",
     "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have DIIA app you can use the alternative methods listed down",
-    "focal_point_registration_alternatives" : "Alternative Methods",
-    "focal_point_registration_internation_passport" : "International Passport",
-    "focal_point_registration_internation_ukranian_id" : "Ukranian Id",
-    "focal_point_registration_internation_other_id": "Other Id",
-    "focal_point_registration_back" : "BACK"
+    "focal_point_registration_alternatives_title" : "Alternative Methods",
+    "focal_point_registration_alternatives" : [
+        {
+            "id" : "Passport",
+            "text" : "International Passport"
+        },
+        {
+            "id" : "UkranianId",
+            "text" : "Ukranian Id"
+        },
+        {
+            "id" : "OtherId",
+            "text" : "Other Id"
+        }
+    ],
+    "focal_point_registration_back" : "BACK",
+    "focal_point_identity_title" : "Focal Point Identity",
+    "focal_point_identity_document_number" : "Document Number",
+    "focal_point_identity_document_number_hint" : "Document Number",
+    "focal_point_identity_given_name" : "Given Name",
+    "focal_point_identity_given_name_hint" : "Name...",
+    "focal_point_identity_family_name" : "Family Name",
+    "focal_point_identity_family_name_hint" : "Family Name...",
+    "focal_point_identity_patrnoymic_name" : "Patronymic Name",
+    "focal_point_identity_patrnoymic_name_hint" : "Patronymic Name...",
+    "focal_point_identity_sex" : "Sex",
+    "focal_point_identity_sex_female" : "FEMALE",
+    "focal_point_identity_sex_male" : "MALE",
+    "focal_point_identity_date_of_birth" : "Date of Birth"
     
 }
