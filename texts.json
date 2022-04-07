@@ -119,4 +119,18 @@
     ],
     "attestation_continue_button" : "CONTINUE",
     "attestation_back_button" : "BACK",
+    "focal_point_registration_title" : "Focal Point Registration",
+    "focal_point_registration_family_focal_point" : "Are you the Focal Point for Your Family?",
+    "focal_point_registration_family_focal_point_yes" : "YES",
+    "focal_point_registration_family_focal_point_no" : "NO",
+    "focal_point_registration_family_focal_point_no_description" : "You must first register the Focal Point of the Family",
+    "focal_point_registration_verify_title" : "How do you want to be verified?",
+    "focal_point_registration_diia" : "via DIIA",
+    "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have DIIA app you can use the alternative methods listed down",
+    "focal_point_registration_alternatives" : "Alternative Methods",
+    "focal_point_registration_internation_passport" : "International Passport",
+    "focal_point_registration_internation_ukranian_id" : "Ukranian Id",
+    "focal_point_registration_internation_other_id": "Other Id",
+    "focal_point_registration_back" : "BACK"
+    
 }
