@@ -116,5 +116,7 @@
                 
             ]
         }
-    ]
+    ],
+    "attestation_continue_button" : "CONTINUE",
+    "attestation_back_button" : "BACK",
 }
