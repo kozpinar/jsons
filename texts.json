@@ -167,12 +167,24 @@
         {
             "id" : "Sex",
             "text" : "Sex",
-            "hint" : ""
+            "hint" : "",
+            "type" : "HorizontalRadioButton",
+            "options" : [
+                {
+                    "id" : "Yes",
+                    "text" : "YES"
+                },
+                {
+                    "id" : "No",
+                    "text" : "NO"
+                }
+            ]
         },
         {
             "id" : "DateOfBirth",
             "text" : "Date of Birth",
-            "hint" : ""
+            "hint" : "",
+            "type" : "DatePicker",
         }
     ],
     "focal_point_identity_title" : "Focal Point Identity",
