@@ -252,4 +252,13 @@
     ],
     "focal_point_details_continue_button" : "CONTINUE",
     "focal_point_details_back_button" : "BACK",
+    "family_members_title" : "Family Members",
+    "family_members_focal_point": "Focal Point",
+    "family_members_other_adults" : "OTHER ADULTS IN THE FAMILY",
+    "family_members_children" : "CHILDREN IN THE FAMILY",
+    "family_members_other_adults_name_hint" : "Name...",
+    "family_members_other_adults_surname_hint" : "Surname...",
+    "family_members_children_name_hint" : "Name...",
+    "family_members_children_surname_hint" : "Surname..."
+    
 }
