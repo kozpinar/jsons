@@ -11,55 +11,51 @@
         {
             "id" : "ru",
             "text" : "РУССКИЙ"
-        },
-        {
-            "id" : "ro",
-            "text" : "ROMÂNĂ"
         }
     ],
-    "landing_title" : "Ukrainian Financial Assistance Programme",
-    "landing_description" : "<h2>SwiftUI Text with HTML via NSAttributedString<\/h2>\r\n    <br\/>\r\n    <p>This recipe shows how to <strong>format content of a SwiftUI <em>Text<\/em> with HTML via <em>NSAttributedString<\/em><\/strong> - sort of. The solution isn't fully complete as it doesn't support all the HTML tags, nor does it support hyperlinks (even though they're supported in attributed strings) - but it gets the job done most of the time.\r\n    <br\/>\r\n    <p>The reason for its limitations is that SwiftUI is surprisingly lacklustre when it comes to working with <em>NSAttributedString<\/em> in <em>Text<\/em> views: it has no default support for it, and even trying to include an attributed string directly in a View results in some <font color=\"blue\"><u>weird memory issues<\/u><\/font>.<br\/>\r\n    <br\/>\r\n    First we'll check out the <font color=\"blue\"><u>solution that works<\/u><\/font>, which:<br\/>\r\n    <ol>\r\n    <li>Supports most HTML formatting options<\/li>\r\n    <li>has no sizing or layout issues,<\/li>\r\n    <li>uses a native <em>Text<\/em>, allowing you to use all <em>Text<\/em>-specific view modifiers.<\/li>\r\n    <\/ol>\r\n    <br\/>\r\n    Then, we'll take a look at a <font color=\"blue\"><u>few other attempts<\/u><\/font> that fail due to internal SwiftUI issues.",
-    "landing_continue_button" : "START REGISTRATION",
+    "landing_title" : "Financial Assistance Program - Ukraine Crisis",
+    "landing_description" : "<strong>The Romanian Red Cross</strong>, with support from <strong>IFRC</strong>, is providing financial assistance to citizens people who have been displaced to Romania by the conflict in Ukraine.<br/><br/>Through this app you can apply for assistance whever you are, submit documents, and receive notification of the result of your application. Red Cross assistance is free and you should not be asked for anything in exchange if you are, please report it to [XXXXXX].<br/><br/>The assistance is to help you best meet the needs of you and your family.<br/><br/>To get through the application, have ready:<br/><br/><strong>1.</strong> Identity documents for everyone in your household.<br/><strong>2.</strong> Left Ukraine because of the crisis.<br/><strong>3.</strong> Be one of these categories:<br/>- Female headed households<br/>- Households with 2 or more children<br/>- Has a member of the family living with a disability<br/>- Has a member of the household that is elderly (60+)<br/>- Households with pregnant or lactating women<br/>- Single female with no other adult member<br/>- Lack of free access to health care<br/><br/>If we cannot verify your identity, you will recieve a message with information on what to do next.<br/><br/>For safety purposes:<br/><br/>Do not trust or pay 3rd parties who claim they can help you access this program.<br/>We do not distribute financial assistance to minors/children",
+    "landing_continue_button" : "Start Registration",
     "consent_title" : "Consent to the Collection & Processing of Personal Data",
-    "consent_description" : "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent information is collecting and processing your personal data as part of this financial assistance application process:\n\n1. We are collecting personal data for everyone member in your household. This includes name, date of birth\n\n2. We are collecting information about government issued identity documents: This includes QR codes from the DIIA App, photos of Ukrainian government issued identity documents such as national identification card, passports, or driver’s license.\n\n3. We collect photos of you holding your government identity documents.\n\n4. We collect your location through your mobile phone or browser.\n\nYou must consent to the collection of personal data to be able to apply for financial assistance.",
-    "consent_continue_button" : "ACCEPT AND CONTINUE",
-    "consent_back_button" : "BACK",
+    "consent_description" : "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent Societies collects and processes your personal data as part of this financial assistance application process:\n\n1. We collect personal data for each member in the household. This includes name, date of birth\n2. We collect government issued identity document, which could include QR codes from the Diia App or photos of Ukrainian government issued identity documents such as national identification card, passports, or driver's license and images of individuals holding government identity documents.\n3. We collect location through mobile phones or browsers.\n\nWe are collecting this information to verify your identification and eligibility for Red Cross financial assistance.\n\nYou must consent to the collection of personal data to be able to apply for financial assistance.\n\n",
+    "consent_continue_button" : "Accept & Continue",
+    "consent_back_button" : "Back",
     "consent_comm_title" : "Consent to Receive Information",
-    "consent_comm_description" : "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Viber, Telegram or email to notify you of updates to your application. You must consent to receive information via these methods...",
-    "consent_comm_continue_button" : "ACCEPT AND CONTINUE",
+    "consent_comm_description" : "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Telegram, Viber, or email to notify you of updates to your application. You must consent to receive information via these methods.\n\n\nYou must consent to the collection of personal data to be able to apply for financial assistance. Without consent, we cannot contact you to inform you about the status of your application.",
+    "consent_comm_continue_button" : "Accept & Continue",
     "consent_comm_back_button" : "Back",
     "location_check_title" : "Location Check",
-    "location_check_description" : "When asked, please allow your browser to provide location information to us.",
-    "location_check_use_description" : "We use the location information as a part of the eligibility criteria and will not share your location information for any third parties.",
-    "location_check_continue_button" : "CONTINUE",
-    "location_check_back_button" : "BACK",
+    "location_check_description" : "When asked, please allow your device to provide location information to us.",
+    "location_check_use_description" : "We use the location information as part of the eligibility criteria.\n\nWe will not share your location information to 3rd parties.",
+    "location_check_continue_button" : "Continue",
+    "location_check_back_button" : "Back",
     "checklist_title" : "Checklist Before Start",
-    "checklist_description_before_start" : "Before you start the registration process please make you  have everything below. Registration process will take 15~20 minutes in total.",
+    "checklist_description_before_start" : "Before you start the registration process, please make sure you have everything below. The registration process will take 15-20 minutes in total.",
     "checklist_check_first_content" : [
         "Appoint a Focal Point"
     ],
-    "checklist_have_diia_app" : "Have the DIIA App?",
-    "checklist_diia_app_description" : "Using the DIIA app is the most convenient way to get registered with the programme. If you don't have the app we recommend that you first download the DIIA app for all adults in your family now and continue the registration afterwards.",
-    "checklist_check_adults_title" : "Documents for Each Adult (14+)",
+    "checklist_have_diia_app" : "Have the Diia App?",
+    "checklist_diia_app_description" : "Using the Diia App is the most convenient way to get registered with the programme. If you don't have the app, we recommend that you first download the Diia app for all adults in your family on their personal phones now.",
+    "checklist_check_adults_title" : "Documents for each person (14 years old and older)",
     "checklist_check_adults_content" : [
-        "DIIA App OR",
+        "Diia App OR",
         "International Passport OR",
-        "National Id OR",
+        "National ID OR",
         "Driving License"
     ],
-    "checklist_check_children_title" : "Documents for Each Kid (<14)",
+    "checklist_check_children_title" : "Documents for each person (Under 14 years old)",
     "checklist_check_children_content" : [
-        "DIIA Birth Certificate OR",
-        "Birth Certificate"
+        "Mother's Diia App (Digital Birth Certificates) OR",
+        "Paper Birth Certificate"
     ],
-    "checklist_continue_button" : "I HAVE ALL. LET'S START",
-    "checklist_back_button" : "BACK",
-    "permission_title" : "Permissions for Camera and Location",
-    "permission_description" : "In order to continue with the process we need to have the following permissions from you.",
-    "permission_location_description" : "We need this to check if you are in one of the countries covered by this assistance programme",
-    "permission_camera_description" : "We need this to take pictures for verification purposes",
-    "permission_continue_button" : "PERMISSIONS OK",
-    "permission_back_button" : "BACK",
+    "checklist_continue_button" : "I have all these things. Let's start.",
+    "checklist_back_button" : "Back",
+    "permission_title" : "App Permissions for Camera and Location",
+    "permission_description" : "In order to continue with registration for assistance, we need to have the follow app permissions from you.",
+    "permission_location_description" : "We need this to check if you are in one of the countries covered by the assistance programme",
+    "permission_camera_description" : "We need this to take pictures for document and identity verification",
+    "permission_continue_button" : "App Permissions - Approved",
+    "permission_back_button" : "Back",
     "permission_camera" : "Camera",
     "permission_location" : "Location",
     "permission_granted" : "(Permission Granted)",
@@ -72,34 +68,34 @@
     "permission_location_settings_alert_desciption" : "We need this to take pictures for verification purposes.",
     "permission_location_settings_alert_ok" : "Settings",
     "permission_location_settings_alert_cancel" : "Cancel",
-    "attestation_title" : "Self Attestation",
+    "attestation_title" : "About Your Situation",
     "attestation_questions" : [
         {
             "id" : "CurrentSitation",
-            "text" : "We are looking to assist those who left Ukraine due to the conflict. What best describes your current situation in Romania?",
+            "text" : "We want to assist those who left Ukraine due to the conflict. What best describes your current situation in Romania?",
             "options" : [
                 {
-                    "id" : "LeftUkraine",
-                    "text" : "I left Ukraine because of the conflict"
+                    "id" : "LeftUkraineDuetoConflict",
+                    "text" : "I left Ukraine because of the conflict."
                 },
                 {
-                    "id" : "ResidedRomania",
-                    "text" : "I resided in Romania before Feb 2022"
+                    "id" : "ResidedInRomaniaBefore",
+                    "text" : "I resided in Romania before Febuary 24, 2022."
                 },
                 {
-                    "id" : "WasInRomania",
-                    "text" : "I was in Romania but could not return to Ukraine because of the conflict"
+                    "id" : "WasInRomaniaCantReturn",
+                    "text" : "I was in Romania before Feb 24, 2022 but could not return to the Ukraine because of the conflict."
                 },
                 {
-                    "id" : "InUkraine",
-                    "text" : "I did not leave Ukraine due to the conflict"
+                    "id" : "DidNotLeaveDueToConflict",
+                    "text" : "I did not leave Ukraine due to the conflict."
                 }
             ]
         },
         
         {
             "id" : "HealthCare",
-            "text" : "In Romania, do you have access to health care?",
+            "text" : "In Romania, do you have acccess to health care?",
             "options" : [
                 {
                     "id" : "HealthCareYes",
@@ -117,16 +113,16 @@
             ]
         }
     ],
-    "attestation_continue_button" : "CONTINUE",
-    "attestation_back_button" : "BACK",
+    "attestation_continue_button" : "Continue",
+    "attestation_back_button" : "Back",
     "focal_point_registration_title" : "Focal Point Registration",
-    "focal_point_registration_family_focal_point" : "Are you the Focal Point for Your Family?",
-    "focal_point_registration_family_focal_point_yes" : "YES",
-    "focal_point_registration_family_focal_point_no" : "NO",
-    "focal_point_registration_family_focal_point_no_description" : "You must first register the Focal Point of the Family",
+    "focal_point_registration_family_focal_point" : "The focal point is a person who makes decisions for the family, right now.\n\nAre you the focal point for your household?",
+    "focal_point_registration_family_focal_point_yes" : "Yes",
+    "focal_point_registration_family_focal_point_no" : "No",
+    "focal_point_registration_family_focal_point_no_description" : "You must first register the focal point of the household.",
     "focal_point_registration_verify_title" : "How do you want to be verified?",
-    "focal_point_registration_diia" : "via DIIA",
-    "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have DIIA app you can use the alternative methods listed down",
+    "focal_point_registration_diia" : "via Diia",
+    "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have Diia app, download it.",
     "focal_point_registration_alternatives_title" : "Alternative Methods",
     "focal_point_registration_alternatives" : [
         {
@@ -135,7 +131,7 @@
         },
         {
             "id" : "NationalId",
-            "text" : "Ukranian Id"
+            "text" : "Ukranian ID"
         },
         {
             "id" : "DrivingLicense",
@@ -146,12 +142,12 @@
             "text" : "Other"
         }
     ],
-    "focal_point_registration_back" : "BACK",
+    "focal_point_registration_back" : "Back",
     "focal_point_identity" : [
         {
             "id" : "DocumentNumber",
             "text" : "Document Number",
-            "hint" : "Document Number"
+            "hint" : "Document Number..."
         },
         {
             "id" : "GivenName",
@@ -176,11 +172,11 @@
             "options" : [
                 {
                     "id" : "Female",
-                    "text" : "FEMALE"
+                    "text" : "Female"
                 },
                 {
                     "id" : "Male",
-                    "text" : "MALE"
+                    "text" : "Male"
                 }
             ]
         },
@@ -188,17 +184,17 @@
             "id" : "DateOfBirth",
             "text" : "Date of Birth",
             "hint" : "",
-            "type" : "DatePicker",
+            "type" : "DatePicker"
         }
     ],
     "focal_point_identity_title" : "Focal Point Identity",
-    "focal_point_identity_continue_button" : "CONTINUE",
-    "focal_point_identity_back_button" : "BACK",
+    "focal_point_identity_continue_button" : "Continue",
+    "focal_point_identity_back_button" : "Back",
     "focal_point_verification_title" : "Focal Point Verification",
-    "focal_point_verification_document_description" : "Take a Picture of Your Identity Document",
-    "focal_point_verification_face_and_document_description" : "Take a Picture of Your Face and your Identity Document",
-    "focal_point_verification_continue_button" : "CONTINUE",
-    "focal_point_verification_back_button" : "BACK",
+    "focal_point_verification_document_description" : "Take a picture of your identity document",
+    "focal_point_verification_face_and_document_description" : "Take a picture of your face next to the identity document",
+    "focal_point_verification_continue_button" : "Continue",
+    "focal_point_verification_back_button" : "Back",
     "focal_point_verification_error_button" : "Close",
     "focal_point_verification_error_title" : "Verification Error",
     "focal_point_details_title" : "Focal Point Details",
@@ -206,66 +202,81 @@
         {
             "id" : "PhysicalDisability",
             "type" : "HorizontalRadioButton",
-            "text" : "Does this person have a physical disability?",
+            "text" : "Is this person living with a physical disability?",
             "options" : [
                 {
                     "id" : "No",
-                    "text" : "NO"
+                    "text" : "No"
                 },
                 {
                     "id" : "Yes",
-                    "text" : "YES"
+                    "text" : "Yes"
+                }
+            ]
+        },
+        {
+            "id" : "MentalDisability",
+            "type" : "HorizontalRadioButton",
+            "text" : "Is this person living with a mental disability?",
+            "options" : [
+                {
+                    "id" : "No",
+                    "text" : "No"
+                },
+                {
+                    "id" : "Yes",
+                    "text" : "Yes"
                 }
             ]
         },
         {
             "id" : "ChronicMedicalIllness",
             "type" : "HorizontalRadioButton",
-            "text" : "Does this person have chronic medical illness?",
+            "text" : "Is this person living with a chronic medical illness?",
             "options" : [
                 {
                     "id" : "No",
-                    "text" : "NO"
+                    "text" : "No"
                 },
                 {
                     "id" : "Yes",
-                    "text" : "YES"
+                    "text" : "Yes"
                 }
             ]
         },
         {
             "id" : "PregnantOrLactating",
             "type" : "HorizontalRadioButton",
-            "text" : "Is this person pregnant or lactating?",
+            "text" : "Is this person living with a chronic medical illness?",
             "note" : "Only for women and adults 14+ up to 51 included",
             "options" : [
                 {
                     "id" : "No",
-                    "text" : "NO"
+                    "text" : "No"
                 },
                 {
                     "id" : "Yes",
-                    "text" : "YES"
+                    "text" : "Yes"
                 }
             ]
-        },
+        }
     ],
-    "focal_point_details_continue_button" : "CONTINUE",
-    "focal_point_details_back_button" : "BACK",
+    "focal_point_details_continue_button" : "Continue",
+    "focal_point_details_back_button" : "Back",
     "family_members_title" : "Family Members",
     "family_members_focal_point": "Focal Point",
-    "family_members_other_adults" : "OTHER ADULTS IN THE FAMILY",
-    "family_members_children" : "CHILDREN IN THE FAMILY",
+    "family_members_other_adults" : "Other Adults in the Family",
+    "family_members_children" : "Children in the Family",
     "family_members_other_adults_name_hint" : "Name...",
     "family_members_other_adults_surname_hint" : "Surname...",
     "family_members_children_name_hint" : "Name...",
     "family_members_children_surname_hint" : "Surname...",
-    "family_members_continue_button" : "CONTINUE",
-    "family_members_back_button" : "BACK",
+    "family_members_continue_button" : "Continue",
+    "family_members_back_button" : "Back",
     "loop_members_title" : "Loop All Members",
-    "loop_members_focal_point" : "Focal Poin",
-    "loop_members_other_adults" : "OTHER ADULTS IN THE FAMILY",
-    "loop_members_children" : "CHILDREN IN THE FAMILY",
-    "loop_members_other_adults_note" : "Do the ID Flow for all adults in the family. DIIA or Pictures, ask Vulnerabilities",
-    "loop_members_children_note" : "Do the ID Flow for all adults in the family. DIIA or Pictures, ask Vulnerabilities",
+    "loop_members_focal_point" : "Focal Point",
+    "loop_members_other_adults" : "Other Family in the Family",
+    "loop_members_children" : "Children in the Family",
+    "loop_members_other_adults_note" : "Do the ID Flow for all adults in the family. Diia or Pictures, ask Vulnerabilities",
+    "loop_members_children_note" : "Do the ID Flow for all adults in the family. Diia or Pictures, ask Vulnerabilities"
 }
