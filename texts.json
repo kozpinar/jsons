@@ -195,4 +195,55 @@
     "focal_point_verification_face_and_document_description" : "Take a Picture of Your Face and your Identity Document",
     "focal_point_verification_continue_button" : "CONTINUE",
     "focal_point_verification_back_button" : "BACK",
+    "focal_point_details_title" : "Focal Point Details",
+    "focal_point_details" : [
+        {
+            "id" : "PhysicalDisability",
+            "type" : "HorizontalRadioButton",
+            "text" : "Does this person have a physical disability?",
+            "options" : [
+                {
+                    "id" : "No",
+                    "text" : "NO"
+                },
+                {
+                    "id" : "Yes",
+                    "text" : "YES"
+                }
+            ]
+        },
+        {
+            "id" : "ChronicMedicalIllness",
+            "type" : "HorizontalRadioButton",
+            "text" : "Does this person have chronic medical illness?",
+            "options" : [
+                {
+                    "id" : "No",
+                    "text" : "NO"
+                },
+                {
+                    "id" : "Yes",
+                    "text" : "YES"
+                }
+            ]
+        },
+        {
+            "id" : "PregnantOrLactating",
+            "type" : "HorizontalRadioButton",
+            "text" : "Is this person pregnant or lactating?",
+            "note" : "Only for women and adults 14+ up to 51 included",
+            "options" : [
+                {
+                    "id" : "No",
+                    "text" : "NO"
+                },
+                {
+                    "id" : "Yes",
+                    "text" : "YES"
+                }
+            ]
+        },
+    ],
+    "focal_point_details_continue_button" : "CONTINUE",
+    "focal_point_details_back_button" : "BACK",
 }
