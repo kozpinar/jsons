@@ -134,12 +134,16 @@
             "text" : "International Passport"
         },
         {
-            "id" : "UkranianId",
+            "id" : "NationalId",
             "text" : "Ukranian Id"
         },
         {
-            "id" : "OtherId",
-            "text" : "Other Id"
+            "id" : "DrivingLicense",
+            "text" : "Driving License"
+        },
+        {
+            "id" : "Other",
+            "text" : "Other"
         }
     ],
     "focal_point_registration_back" : "BACK",
