@@ -262,4 +262,10 @@
     "family_members_children_surname_hint" : "Surname...",
     "family_members_continue_button" : "CONTINUE",
     "family_members_back_button" : "BACK",
+    "loop_members_title" : "Loop All Members",
+    "loop_members_focal_point" : "Focal Poin",
+    "loop_members_other_adults" : "OTHER ADULTS IN THE FAMILY",
+    "loop_members_children" : "CHILDREN IN THE FAMILY",
+    "loop_members_other_adults_note" : "Do the ID Flow for all adults in the family. DIIA or Pictures, ask Vulnerabilities",
+    "loop_members_children_note" : "Do the ID Flow for all adults in the family. DIIA or Pictures, ask Vulnerabilities",
 }
