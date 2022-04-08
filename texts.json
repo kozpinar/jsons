@@ -130,7 +130,7 @@
     "focal_point_registration_alternatives_title" : "Alternative Methods",
     "focal_point_registration_alternatives" : [
         {
-            "id" : "Passport",
+            "id" : "InternationalPassport",
             "text" : "International Passport"
         },
         {
