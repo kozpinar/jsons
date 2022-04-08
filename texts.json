@@ -190,4 +190,9 @@
     "focal_point_identity_title" : "Focal Point Identity",
     "focal_point_identity_continue_button" : "CONTINUE",
     "focal_point_identity_back_button" : "BACK",
+    "focal_point_verification_title" : "Focal Point Verification",
+    "focal_point_verification_document_description" : "Take a Picture of Your Identity Document",
+    "focal_point_verification_face_and_document_description" : "Take a Picture of Your Face and your Identity Document",
+    "focal_point_verification_continue_button" : "CONTINUE",
+    "focal_point_verification_back_button" : "BACK",
 }
