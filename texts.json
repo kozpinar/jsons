@@ -199,6 +199,8 @@
     "focal_point_verification_face_and_document_description" : "Take a Picture of Your Face and your Identity Document",
     "focal_point_verification_continue_button" : "CONTINUE",
     "focal_point_verification_back_button" : "BACK",
+    "focal_point_verification_error_button" : "Close",
+    "focal_point_verification_error_title" : "Verification Error",
     "focal_point_details_title" : "Focal Point Details",
     "focal_point_details" : [
         {
