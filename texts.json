@@ -123,7 +123,7 @@
     "focal_point_registration_verify_title" : "How do you want to be verified?",
     "focal_point_registration_diia" : "via Diia",
     "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have Diia app, download it.",
-    "focal_point_registration_alternatives_title" : "Alternative Methods",
+    "focal_point_registration_alternatives_title" : "Automated Review",
     "focal_point_registration_alternatives" : [
         {
             "id" : "InternationalPassport",
@@ -136,7 +136,24 @@
         {
             "id" : "DrivingLicense",
             "text" : "Driving License"
+        }
+    ],
+    "focal_point_registration_alternatives_children" : [
+        {
+            "id" : "BirthCertificate",
+            "text" : "Birth Certificate"
         },
+        {
+            "id" : "InternationalPassport",
+            "text" : "International Passport"
+        },
+        {
+            "id" : "NationalId",
+            "text" : "Ukranian ID"
+        }
+    ],
+    "focal_point_registration_in_person_title" : "In-Person Review",
+    "focal_point_registration_in_person" : [
         {
             "id" : "Other",
             "text" : "Other"
@@ -278,5 +295,6 @@
     "loop_members_other_adults" : "Other Family in the Family",
     "loop_members_children" : "Children in the Family",
     "loop_members_other_adults_note" : "Do the ID Flow for all adults in the family. Diia or Pictures, ask Vulnerabilities",
-    "loop_members_children_note" : "Do the ID Flow for all adults in the family. Diia or Pictures, ask Vulnerabilities"
+    "loop_members_children_note" : "Do the ID Flow for all adults in the family. Diia or Pictures, ask Vulnerabilities",
+
 }
