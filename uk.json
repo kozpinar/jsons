@@ -337,7 +337,7 @@
             "id" : "UkrainianBankAccount",
             "text" : "Чи є у Вас доступ до банківського рахунку в Україні?",
             "hint" : "",
-            "type" : "HorizontalRadioButton",
+            "type" : "HorizontalRadioButtonConditional",
             "options" : [
                 {
                     "id" : "No",
