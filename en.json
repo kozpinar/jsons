@@ -388,9 +388,19 @@
     "confirmation_description" : "What is next?",
     "confirmation_experience_title" : "How was your experience?",
     "confirmation_experience" : [
-        "☹️",
-        "😐",
-        "🙂",
+        
+        {
+            "id" : "Sad",
+            "text" : "☹️",
+        },
+        {
+            "id" : "Neutral",
+            "text": "😐",
+        },
+        {
+            "id" : "Happy",
+            "text" : "🙂",
+        }
     ],
     "confirmation_finish_button" : "Finish"
 }
