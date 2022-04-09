@@ -390,7 +390,7 @@
             "id" : "ConsentForSharing",
             "text" : "The Romanian Red Cross and the IFRC work with other non-governmental (charity) organizations to help people from Ukraine displaced by the conflict. To work together to provide assistance, we need to be able to share your identity and contact details so they can reach out to you.\n\nDo you consent?",
             "hint" : "",
-            "type" : "HorizontalRadioButtonConditional",
+            "type" : "HorizontalRadioButton",
             "options" : [
                 {
                     "id" : "No",
