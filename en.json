@@ -382,4 +382,15 @@
     ],
     "statistics_continue_button" : "Continue",
     "statistics_back_button" : "Back",
+    "confirmation_title" : "Confirmation",
+    "confirmation_thank_you" : "Thank you for your submission!",
+    "confirmation_registration_id_description" : "Your Unique Registration Code is",
+    "confirmation_description" : "What is next?",
+    "confirmation_experience_title" : "How was your experience?",
+    "confirmation_experience" : [
+        "☹️",
+        "😐",
+        "🙂",
+    ],
+    "confirmation_finish_button" : "Finish"
 }
