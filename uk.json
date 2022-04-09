@@ -348,16 +348,16 @@
                     "text" : "Так"
                 }
             ],
-            "condition_items" : [
-                {
-                    "id" : "Yes",
-                    "item" : {
-                        "id" : "UkrainianBankName",
-                        "hint" : "Введіть свій основний банк",
-                        "text" : "Послугами якого банку Ви користувалися?"
-                    }
+            "condition_items" :
+            {
+                "id" : "Yes",
+                "item" : {
+                    "id" : "UkrainianBankName",
+                    "hint" : "Введіть свій основний банк",
+                    "text" : "Послугами якого банку Ви користувалися?"
                 }
-            ]
+            }
+            
         },
         
         {
@@ -375,16 +375,16 @@
                     "text" : "Так"
                 }
             ],
-            "condition_items" : [
-                {
-                    "id" : "Yes",
-                    "item" :{
-                        "id" : "RomanianBankName",
-                        "hint" : "Введіть свій основний банк",
-                        "text" : "Який ваш основний банк у Румунії?"
-                    },
-                }
-            ]
+            "condition_items" :
+            {
+                "id" : "Yes",
+                "item" :{
+                    "id" : "RomanianBankName",
+                    "hint" : "Введіть свій основний банк",
+                    "text" : "Який ваш основний банк у Румунії?"
+                },
+            }
+            
         },
         
         {
