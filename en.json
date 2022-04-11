@@ -173,11 +173,6 @@
             "hint" : "Family Name..."
         },
         {
-            "id" : "PatronymicName",
-            "text" : "Patronymic Name",
-            "hint" : "Patronymic Name..."
-        },
-        {
             "id" : "Sex",
             "text" : "Sex",
             "hint" : "",
@@ -197,7 +192,7 @@
             "id" : "DateOfBirth",
             "text" : "Date of Birth",
             "hint" : "",
-            "type" : "DatePicker"
+            "type" : "DateTextField"
         }
     ],
     "focal_point_identity_title" : "Focal Point Identity",
@@ -331,7 +326,7 @@
             "id" : "RomaniaArrivalDate",
             "hint" : "",
             "text" : "When was your arrival date in Romania?",
-            "type" : "DatePicker"
+            "type" : "DateTextField"
         },
         {
             "id" : "UkrainianBankAccount",
