@@ -112,6 +112,8 @@
     "attestation_continue_button" : "Continue",
     "attestation_back_button" : "Back",
     "focal_point_registration_title" : "Focal Point Registration",
+    "focal_point_registration_title_adult" : "Adult Registration",
+    "focal_point_registration_title_child" : "Child Registration",
     "focal_point_registration_family_focal_point" : "The focal point is a person who makes decisions for the family, right now.\n\nAre you the focal point for your household?",
     "focal_point_registration_family_focal_point_yes" : "Yes",
     "focal_point_registration_family_focal_point_no" : "No",
@@ -196,9 +198,13 @@
         }
     ],
     "focal_point_identity_title" : "Focal Point Identity",
+    "focal_point_identity_title_adult" : "Adult Identity",
+    "focal_point_identity_title_child" : "Child Identity",
     "focal_point_identity_continue_button" : "Continue",
     "focal_point_identity_back_button" : "Back",
     "focal_point_verification_title" : "Focal Point Verification",
+    "focal_point_verification_title_adult" : "Adult Verification",
+    "focal_point_verification_title_child" : "Child Verification",
     "focal_point_verification_document_description" : "Take a picture of your identity document",
     "focal_point_verification_face_and_document_description" : "Take a picture of your face next to the identity document",
     "focal_point_verification_continue_button" : "Continue",
@@ -206,6 +212,9 @@
     "focal_point_verification_error_button" : "Close",
     "focal_point_verification_error_title" : "Verification Error",
     "focal_point_details_title" : "Focal Point Details",
+    "focal_point_details_title_adult" : "Adult Details",
+    "focal_point_details_title_child" : "Child Details",
+
     "focal_point_details" : [
         {
             "id" : "PhysicalDisability",
@@ -441,6 +450,7 @@
     "contact_channels_whatsapp_say_hi_title" : "Say Hi",
     "contact_channels_whatsapp_enter_code_description" : "Enter the code below",
     "contact_channels_whatsapp_enter_code_hint" : "Code",
-    "contact_channels_whatsapp_url" : "https://wa.me/15551234567",
+    "contact_channels_whatsapp_url" : "https://wa.me/12674034001",
+    
 
 }
