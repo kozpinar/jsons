@@ -434,7 +434,7 @@
     "contact_channels_viber_say_hi_title" : "Say Hi",
     "contact_channels_viber_enter_code_description" : "Enter the code below",
     "contact_channels_viber_enter_code_hint" : "Code",
-
+    "contact_channels_viber_url" : "viber://pa?chatURI=ifrcbot",
     "contact_channels_whatsapp_title" : "Add Whatsapp",
     "contact_channels_whatsapp_get_code_description" : "Open Whatsapp",
     "contact_channels_whatsapp_get_code_button" : "Open Whatsapp",
