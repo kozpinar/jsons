@@ -460,5 +460,7 @@
             "id" : "Email",
             "text" : "Email"
         }
-    ]
+    ],
+    "contact_channels_back_button" : "Back",
+    "contact_channels_continue_button" : "Continue"
 }
