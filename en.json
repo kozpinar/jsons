@@ -438,12 +438,8 @@
     ],
     "confirmation_finish_button" : "Finish",
     "contact_channels_title" : "Contact Channels",
-    "contact_channels_description" : "Pick Two out of Five Ways to Communicate with you",
+    "contact_channels_description" : "Pick at least one of them to Communicate with you.",
     "contact_channels" : [
-        {
-            "id" : "Telegram",
-            "text" : "Telegram"
-        },
         {
             "id" : "Viber",
             "text" : "Viber"
@@ -451,14 +447,6 @@
         {
             "id" : "Whatsapp",
             "text" : "Whatsapp"
-        },
-        {
-            "id" : "SMS",
-            "text" : "SMS"
-        },
-        {
-            "id" : "Email",
-            "text" : "Email"
         }
     ],
     "contact_channels_back_button" : "Back",
