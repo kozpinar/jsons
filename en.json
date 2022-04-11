@@ -441,6 +441,6 @@
     "contact_channels_whatsapp_say_hi_title" : "Say Hi",
     "contact_channels_whatsapp_enter_code_description" : "Enter the code below",
     "contact_channels_whatsapp_enter_code_hint" : "Code",
-    "contact_channels_whatsapp_url" : "viber://pa?chatURI=ifrcbot",
+    "contact_channels_whatsapp_url" : "https://wa.me/15551234567",
 
 }
