@@ -356,32 +356,6 @@
         },
         
         {
-            "id" : "RomanianBankAccount",
-            "text" : "Do you have access to a Romanian bank account?",
-            "hint" : "",
-            "type" : "HorizontalRadioButtonConditional",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "No"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Yes"
-                }
-            ],
-            "conditionItem" :
-            {
-                "id" : "Yes",
-                "item" : {
-                    "id" : "RomanianBankName",
-                    "hint" : "Enter your primary bank",
-                    "text" : "What is your primary bank in Romania?"
-                }
-            }
-        },
-        
-        {
             "id" : "ConsentForSharing",
             "text" : "The Romanian Red Cross and the IFRC work with other non-governmental (charity) organizations to help people from Ukraine displaced by the conflict. To work together to provide assistance, we need to be able to share your identity and contact details so they can reach out to you.\n\nDo you consent?",
             "hint" : "",
@@ -450,5 +424,21 @@
         }
     ],
     "contact_channels_back_button" : "Back",
-    "contact_channels_continue_button" : "Continue"
+    "contact_channels_continue_button" : "Continue",
+    "contact_channels_detail_back_button" : "Back",
+    "contact_channels_detail_continue_button" : "Continue",
+    
+    "contact_channels_viber_title" : "Add Viber",
+    "contact_channels_viber_get_code_description" : "Open Viber",
+    "contact_channels_viber_get_code_button" : "Open Viber",
+    "contact_channels_viber_say_hi_title" : "Say Hi",
+    "contact_channels_viber_enter_code_description" : "Enter the code below",
+    "contact_channels_viber_enter_code_hint" : "Code",
+
+    "contact_channels_whatsapp_title" : "Add Whatsapp",
+    "contact_channels_whatsapp_get_code_description" : "Open Whatsapp",
+    "contact_channels_whatsapp_get_code_button" : "Open Whatsapp",
+    "contact_channels_whatsapp_say_hi_title" : "Say Hi",
+    "contact_channels_whatsapp_enter_code_description" : "Enter the code below",
+    "contact_channels_whatsapp_enter_code_hint" : "Code",
 }
