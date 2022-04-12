@@ -1,446 +1,538 @@
 {
-    "supported_languages" : [
+  "supported_languages": [
+    {
+      "id": "en",
+      "text": "English"
+    },
+    {
+      "id": "uk",
+      "text": "УКРАЇНСЬКИЙ"
+    }
+  ],
+  "landing_title": "Програма фінансової допомоги - Криза в Україні",
+  "landing_description": "Червоний Хрест Румунії та МКЧХ надають фінансову допомогу громадянам України та резидентам України, які були вимушені покинути країну через конфлікт.\n\nЗа допомогою цього додатка Ви маєте можливість подати заявку на фінансову допомогу де б Ви не знаходилися, завантажити документи та отримати результат розгляду Вашої заявки.Грошова допомога Червоного Хреста є безоплатною і у Вас не повинні нічого просити взамін, якщо таке трапилося, будь ласка, повідомте про це ХХХХХ.\n\nВи повинні:\n\n1. Мати документи, що засвідчують особу усіх членів сім'ї.\n2. Були змушені покинути Україну через конфлікт.\n3. Належити до однієї з цих категорій:\n\n- Жінки, які очолюють свою сім'ю\n- Голова сім’ї з двума або більше дітьми\n- Маєте члена сім’ї з фізичною чи розумовою інвалідністю\n- Маєте члена сім’ї віком старше 60 років \n- Голова сім’ї з вагітними або кормлячими жінками\n- Самотньою жінкою без супроводу\n- Відсутність безкоштовного доступу до медичної допомоги\n\nЯкщо ми не зможемо підтвердити Вашу особу, Ви отримаєте повідомлення з інформацією, що робити далі.\n\nЗ метою безпеки:\nНе довіряйте і не платіть третім сторонам, які стверджують, що можуть допомогти вам отримати доступ до цієї програми.\nМи не роздаємо грошову допомогу неповнолітнім/дітям\n\n",
+  "landing_continue_button": "Почати реєстрацію",
+  "consent_title": "Згода на збір та обробку персональних даних",
+  "consent_description": "Червоний Хрест Румунії та Міжнародна федерація Червоного Хреста та Червоного Півмісяця збирають та обробляють персональні дані в рамках процесу подання заявки на фінансову допомогу:\n\n1. Ми збираємо персональні дані  всіх членів родини. Це включає ім’я та дату народженння.\n2. Ми збираємо інформацію про документи, що посвідчують особу: це включає QR коди з додатку Дія, фото документів, що засвідчують особу, виданих державними органами України, таких як, внутрішній паспорт, закордонний паспорт, або посвідчення водія та Ваше фото, тримаючи ці документи.\n3. Ми збираємо інформацію про Ваше місцезнаходження через мобільний телефон або браузер.\n\nЗбір інформації відбувається задля того, щоб підтвердити Вашу особистість та право на фінансову допомогу Червоного Хреста\n\nВи повинні дати згоду на збір персональних даних, щоб мати можливість подати заявку на фінансову допомогу.\n\n",
+  "consent_continue_button": "Прийняти та продовжити",
+  "consent_back_button": "Назад",
+  "consent_comm_title": "Згода на отримання інформації",
+  "consent_comm_description": "У рамках програми фінансової допомоги Червоного Хреста ми плануємо використовувати SMS, WhatsApp, Telegram, Viber або електронну пошту, щоб повідомляти про хід Вашої заявки. Ви повинні дати згоду на отримання інформації цими способами.\n\nВи повинні дати згоду на збір персональних даних, щоб мати можливість подати заявку на фінансову допомогу. Без Вашої згоди ми не можемо зв’язатися з Вами, щоб повідомити про статус Вашої заявки.\n",
+  "consent_comm_continue_button": "Прийняти та продовжити",
+  "consent_comm_back_button": "Назад",
+  "location_check_title": "Перевірка місцезнаходження",
+  "location_check_description": "Під час запиту, дозвольте браузеру надати нам інформацію про Ваше місцезнаходження.",
+  "location_check_use_description": "Ми використовуємо інформацію про місцезнаходження як частину критеріїв відповідності.\n\nМи не передаємо інформацію про Ваше місцезнаходження третім сторонам.",
+  "location_check_continue_button": "Продовжити",
+  "location_check_back_button": "Назад",
+  "checklist_title": "Необхідний перелік документів перед реєстрацією",
+  "checklist_description_before_start": "Перед тим, як розпочати реєстрацію, переконайтеся, що у Вас є перелік необхідних документів, зазначений нижче.\n\nПроцес реєстрації займе 15-20 хвилин.",
+  "checklist_check_first_content": [
+    "Визначте хто є головою Вашої сім'ї"
+  ],
+  "checklist_have_diia_app": "Маєте додаток Дія?",
+  "checklist_diia_app_description": "Використання додатку Дія є найзручнішим способом для реєстрації у цій програмі. Якщо у Вас немає додатку Дія, ми рекомендуємо спочатку завантажити його на телефонах усіх дорослих членів сім'ї. ",
+  "checklist_check_adults_title": "Документи для осіб віком 14 років та старше:",
+  "checklist_check_adults_content": [
+    "Додаток Дія, або",
+    "закордонний паспорт, або",
+    "внутрішній паспорт, або",
+    "посвідчення водія"
+  ],
+  "checklist_check_children_title": "Документи для осіб віком менше 14 років",
+  "checklist_check_children_content": [
+    "Додаток Дія матері (цифрові сертифікати про народження дитини), або",
+    "Бумажні сертифікати про народження дитини"
+  ],
+  "checklist_continue_button": "В мене все є. Розпочнемо.",
+  "checklist_back_button": "Назад",
+  "permission_title": "Дозволити відкрити камеру та місцезнаходження",
+  "permission_description": "Щоб продовжити реєстрацію для отримання допомоги, Вам необхідно надати дозволи у додатку.",
+  "permission_location_description": "Це потрібно, щоб перевірити, чи перебуваєте Ви в одній із країн, у якій діє програма допомоги",
+  "permission_camera_description": "Це необхідно, щоб зробити фотографії для підтвердження документів та особи",
+  "permission_continue_button": "Прийняти дозволи програми - підтверджено",
+  "permission_back_button": "Назад",
+  "permission_camera": "камера",
+  "permission_location": "Місцезнаходження",
+  "permission_granted": "(Дозвіл надано)",
+  "permission_not_granted": "(Дозвіл не надано)",
+  "permission_camera_settings_alert_title": " Дайте дозвіл через Налаштування",
+  "permission_camera_settings_alert_description": "Це необхідно, щоб зробити фотографії для підтвердження документів та особи",
+  "permission_camera_settings_alert_ok": "Налаштування",
+  "permission_camera_settings_alert_cancel": "Скасувати",
+  "permission_location_settings_alert_title": " Дайте дозвіл через Налаштування",
+  "permission_location_settings_alert_desciption": "Це потрібно, щоб перевірити, чи перебуваєте Ви в одній із країн, у якій діє програма допомоги",
+  "permission_location_settings_alert_ok": "Налаштування",
+  "permission_location_settings_alert_cancel": "Скасувати",
+  "attestation_title": "Про ситуацію, у якій Ви перебуваєте",
+  "attestation_questions": [
+    {
+      "id": "CurrentSitation",
+      "text": "Ми хочемо допомогти тим, хто покинув Україну через конфлікт. Що найкраще описує Вашу нинішню ситуацію в Румунії?",
+      "options": [
         {
-            "id" : "en",
-            "text" : "English"
+          "id": "LeftUkraineDuetoConflict",
+          "text": "Я покинув (-ла) Україну через конфлікт."
         },
         {
-            "id" : "uk",
-            "text" : "УКРАЇНСЬКИЙ"
+          "id": "ResidedInRomaniaBefore",
+          "text": "Я проживаю в Румунії до 24 лютого 2022 року."
+        },
+        {
+          "id": "WasInRomaniaCantReturn",
+          "text": "Я знаходився (-лася) в Румунії до 24 лютого 2022 року, але не зміг (-огла) повернутися до України через конфлікт"
+        },
+        {
+          "id": "DidNotLeaveDueToConflict",
+          "text": "Я не покинув (-ла) Україну через конфлікт."
         }
-    ],
-    "landing_title" : "Програма фінансової допомоги - Криза в Україні",
-    "landing_description" : "Червоний Хрест Румунії та МКЧХ надають фінансову допомогу громадянам України та резидентам України, які були вимушені покинути країну через конфлікт.\n\nЗа допомогою цього додатка Ви маєте можливість подати заявку на фінансову допомогу де б Ви не знаходилися, завантажити документи та отримати результат розгляду Вашої заявки.Грошова допомога Червоного Хреста є безоплатною і у Вас не повинні нічого просити взамін, якщо таке трапилося, будь ласка, повідомте про це ХХХХХ.\n\nВи повинні:\n\n1. Мати документи, що засвідчують особу усіх членів сім'ї.\n2. Були змушені покинути Україну через конфлікт.\n3. Належити до однієї з цих категорій:\n\n- Жінки, які очолюють свою сім'ю\n- Голова сім’ї з двума або більше дітьми\n- Маєте члена сім’ї з фізичною чи розумовою інвалідністю\n- Маєте члена сім’ї віком старше 60 років \n- Голова сім’ї з вагітними або кормлячими жінками\n- Самотньою жінкою без супроводу\n- Відсутність безкоштовного доступу до медичної допомоги\n\nЯкщо ми не зможемо підтвердити Вашу особу, Ви отримаєте повідомлення з інформацією, що робити далі.\n\nЗ метою безпеки:\nНе довіряйте і не платіть третім сторонам, які стверджують, що можуть допомогти вам отримати доступ до цієї програми.\nМи не роздаємо грошову допомогу неповнолітнім/дітям\n\n",
-    "landing_continue_button" : "Почати реєстрацію",
-    "consent_title" : "Згода на збір та обробку персональних даних",
-    "consent_description" : "Червоний Хрест Румунії та Міжнародна федерація Червоного Хреста та Червоного Півмісяця збирають та обробляють персональні дані в рамках процесу подання заявки на фінансову допомогу:\n\n1. Ми збираємо персональні дані  всіх членів родини. Це включає ім’я та дату народженння.\n2. Ми збираємо інформацію про документи, що посвідчують особу: це включає QR коди з додатку Дія, фото документів, що засвідчують особу, виданих державними органами України, таких як, внутрішній паспорт, закордонний паспорт, або посвідчення водія та Ваше фото, тримаючи ці документи.\n3. Ми збираємо інформацію про Ваше місцезнаходження через мобільний телефон або браузер.\n\nЗбір інформації відбувається задля того, щоб підтвердити Вашу особистість та право на фінансову допомогу Червоного Хреста\n\nВи повинні дати згоду на збір персональних даних, щоб мати можливість подати заявку на фінансову допомогу.\n\n",
-    "consent_continue_button" : "Прийняти та продовжити",
-    "consent_back_button" : "Назад",
-    "consent_comm_title" : "Згода на отримання інформації",
-    "consent_comm_description" : "У рамках програми фінансової допомоги Червоного Хреста ми плануємо використовувати SMS, WhatsApp, Telegram, Viber або електронну пошту, щоб повідомляти про хід Вашої заявки. Ви повинні дати згоду на отримання інформації цими способами.\n\nВи повинні дати згоду на збір персональних даних, щоб мати можливість подати заявку на фінансову допомогу. Без Вашої згоди ми не можемо зв’язатися з Вами, щоб повідомити про статус Вашої заявки.\n",
-    "consent_comm_continue_button" : "Прийняти та продовжити",
-    "consent_comm_back_button" : "Назад",
-    "location_check_title" : "Перевірка місцезнаходження",
-    "location_check_description" : "Під час запиту, дозвольте браузеру надати нам інформацію про Ваше місцезнаходження.",
-    "location_check_use_description" : "Ми використовуємо інформацію про місцезнаходження як частину критеріїв відповідності.\n\nМи не передаємо інформацію про Ваше місцезнаходження третім сторонам.",
-    "location_check_continue_button" : "Продовжити",
-    "location_check_back_button" : "Назад",
-    "checklist_title" : "Необхідний перелік документів перед реєстрацією",
-    "checklist_description_before_start" : "Перед тим, як розпочати реєстрацію, переконайтеся, що у Вас є перелік необхідних документів, зазначений нижче. Процес реєстрації займе 15-20 хвилин.",
-    "checklist_check_first_content" : [
-        "Визначте хто є головою Вашої сім'ї"
-    ],
-    "checklist_have_diia_app" : "Маєте додаток Дія?",
-    "checklist_diia_app_description" : "Використання додатку Дія є найзручнішим способом для реєстрації у цій програмі. Якщо у Вас немає додатку Дія, ми рекомендуємо спочатку завантажити його на телефонах усіх дорослих членів сім'ї. ",
-    "checklist_check_adults_title" : "Документи для осіб віком 14 років та старше:",
-    "checklist_check_adults_content" : [
-        "Додаток Дія, або",
-        "закордонний паспорт, або",
-        "внутрішній паспорт, або",
-        "посвідчення водія"
-    ],
-    "checklist_check_children_title" : "Документи для осіб віком менше 14 років",
-    "checklist_check_children_content" : [
-        "Додаток Дія матері (цифрові сертифікати про народження дитини), або",
-        "Бумажні сертифікати про народження дитини"
-    ],
-    "checklist_continue_button" : "В мене все є. Розпочнемо.",
-    "checklist_back_button" : "Назад",
-    "permission_title" : "Дозволити відкрити камеру та місцезнаходження",
-    "permission_description" : "Щоб продовжити реєстрацію для отримання допомоги, Вам необхідно надати дозволи у додатку.",
-    "permission_location_description" : "Це потрібно, щоб перевірити, чи перебуваєте Ви в одній із країн, у якій діє програма допомоги",
-    "permission_camera_description" : "Це необхідно, щоб зробити фотографії для підтвердження документів та особи",
-    "permission_continue_button" : "Прийняти дозволи програми - підтверджено",
-    "permission_back_button" : "Назад",
-    "permission_camera" : "камера",
-    "permission_location" : "Місцезнаходження",
-    "permission_granted" : "(Дозвіл надано)",
-    "permission_not_granted" : "(Дозвіл не надано)",
-    "permission_camera_settings_alert_title" : " Дайте дозвіл через Налаштування",
-    "permission_camera_settings_alert_description" : "Це необхідно, щоб зробити фотографії для підтвердження документів та особи",
-    "permission_camera_settings_alert_ok" : "Налаштування",
-    "permission_camera_settings_alert_cancel" : "Скасувати",
-    "permission_location_settings_alert_title" : " Дайте дозвіл через Налаштування",
-    "permission_location_settings_alert_desciption" : "Це потрібно, щоб перевірити, чи перебуваєте Ви в одній із країн, у якій діє програма допомоги",
-    "permission_location_settings_alert_ok" : "Налаштування",
-    "permission_location_settings_alert_cancel" : "Скасувати",
-    "attestation_title" : "Про ситуацію, у якій Ви перебуваєте",
-    "attestation_questions" : [
+      ]
+    },
+
+    {
+      "id": "HealthCare",
+      "text": "Чи маєте Ви доступ до медичної допомоги у Румунії?",
+      "options": [
         {
-            "id" : "CurrentSitation",
-            "text" : "Ми хочемо допомогти тим, хто покинув Україну через конфлікт. Що найкраще описує Вашу нинішню ситуацію в Румунії?",
-            "options" : [
-                {
-                    "id" : "LeftUkraineDuetoConflict",
-                    "text" : "Я покинув (-ла) Україну через конфлікт."
-                },
-                {
-                    "id" : "ResidedInRomaniaBefore",
-                    "text" : "Я проживаю в Румунії до 24 лютого 2022 року."
-                },
-                {
-                    "id" : "WasInRomaniaCantReturn",
-                    "text" : "Я знаходився (-лася) в Румунії до 24 лютого 2022 року, але не зміг (-огла) повернутися до України через конфлікт"
-                },
-                {
-                    "id" : "DidNotLeaveDueToConflict",
-                    "text" : "Я не покинув (-ла) Україну через конфлікт."
-                }
-            ]
+          "id": "HealthCareYes",
+          "text": "Так"
         },
-        
         {
-            "id" : "HealthCare",
-            "text" : "Чи маєте Ви доступ до медичної допомоги у Румунії?",
-            "options" : [
-                {
-                    "id" : "HealthCareYes",
-                    "text" : "Так"
-                },
-                {
-                    "id" : "HealthCareNo",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "HealthCareDontKnow",
-                    "text" : "Я не знаю"
-                }
-                
-            ]
+          "id": "HealthCareNo",
+          "text": "Ні"
+        },
+        {
+          "id": "HealthCareDontKnow",
+          "text": "Я не знаю"
         }
-    ],
-    "attestation_continue_button" : "Продовжити",
-    "attestation_back_button" : "Назад",
-    "focal_point_registration_title" : "Реєстрація голови сім'ї",
-    "focal_point_registration_family_focal_point" : "Під поняттям 'голова сім'ї' мається на увазі особа, яка приймає рішення та відповідає за сім'ю саме зараз\n\nЧи є Ви головою сім'ї ?",
-    "focal_point_registration_family_focal_point_yes" : "Так",
-    "focal_point_registration_family_focal_point_no" : "Ні",
-    "focal_point_registration_family_focal_point_no_description" : "Спочатку треба зареєструватися як голова сім'ї",
-    "focal_point_registration_verify_title" : "Який спосіб верифікації Ви хочете обрати?",
-    "focal_point_registration_diia" : "via Diia",
-    "focal_point_registration_diia_description" : "This is the fastest way to get verified. If you don't have Diia app, download it.",
-    "focal_point_registration_alternatives_title" : "Автоматизований огляд",
-    "focal_point_registration_alternatives" : [
+
+      ]
+    }
+  ],
+  "attestation_continue_button": "Продовжити",
+  "attestation_back_button": "Назад",
+  "focal_point_registration_title": "Реєстрація голови сім'ї",
+  "focal_point_registration_title_adult": "Реєстрація дорослих",
+  "focal_point_registration_title_child": "Реєстрація дитини",
+  "focal_point_registration_family_focal_point": "Під поняттям 'голова сім'ї' мається на увазі особа, яка приймає рішення та відповідає за сім'ю саме зараз\n\nЧи є Ви головою сім'ї ?",
+  "focal_point_registration_family_focal_point_yes": "Так",
+  "focal_point_registration_family_focal_point_no": "Ні",
+  "focal_point_registration_family_focal_point_no_description": "Спочатку треба зареєструватися як голова сім'ї",
+  "focal_point_registration_verify_title": "Який спосіб верифікації Ви хочете обрати?",
+  "focal_point_registration_diia": "via Diia",
+  "focal_point_registration_diia_description": "This is the fastest way to get verified. If you don't have Diia app, download it.",
+  "focal_point_registration_alternatives_title": "Звичайний огляд",
+  "focal_point_registration_alternatives": [
+    {
+      "id": "InternationalPassport",
+      "text": "Закордонний паспорт"
+    },
+    {
+      "id": "NationalId",
+      "text": "Внутрішній паспорт громадянина України"
+    },
+    {
+      "id": "DrivingLicense",
+      "text": "Посвідчення водія України"
+    }
+  ],
+  "focal_point_registration_alternatives_children": [
+    {
+      "id": "BirthCertificate",
+      "text": "свідотство про народження"
+    },
+    {
+      "id": "InternationalPassport",
+      "text": "Закордонний паспорт"
+    },
+    {
+      "id": "NationalId",
+      "text": "Внутрішній паспорт громадянина України"
+    }
+  ],
+  "focal_point_registration_in_person_title": "Особиста подача",
+  "focal_point_registration_in_person": [
+    {
+      "id": "Other",
+      "text": "Інші документи"
+    }
+  ],
+  "focal_point_registration_back": "Назад",
+  "focal_point_identity": [
+    {
+      "id": "DocumentNumber",
+      "text": "Номер документа",
+      "hint": "Номер документа ..."
+    },
+    {
+      "id": "GivenName",
+      "text": "Ім'я",
+      "hint": "Напишіть Ваші дані (латиницею) як у документах..."
+    },
+    {
+      "id": "FamilyName",
+      "text": "Прізвище",
+      "hint": "Family Name..."
+    },
+    {
+      "id": "PatronymicName",
+      "text": "По батькові",
+      "hint": "Напишіть Ваші дані (латиницею) як у документах..."
+    },
+    {
+      "id": "Sex",
+      "text": "Стать",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
         {
-            "id" : "InternationalPassport",
-            "text" : "Закордонний паспорт"
+          "id": "Female",
+          "text": "Жіноча"
         },
         {
-            "id" : "NationalId",
-            "text" : "Внутрішній паспорт громадянина України"
-        },
-        {
-            "id" : "DrivingLicense",
-            "text" : "Посвідчення водія України"
+          "id": "Male",
+          "text": "Чоловіча"
         }
-    ],
-    "focal_point_registration_alternatives_children" : [
+      ]
+    },
+    {
+      "id": "DateOfBirth",
+      "text": "Дата народження",
+      "hint": "",
+      "type": "DateTextField"
+    }
+  ],
+  "focal_point_identity_title": "Ідентифікація голови сім'ї",
+  "focal_point_identity_title_adult": "Ідентичність дорослих",
+  "focal_point_identity_title_child": "Ідентичність дитини",
+  "focal_point_identity_continue_button": "Продовжити",
+  "focal_point_identity_back_button": "Назад",
+  "focal_point_verification_title": "Верифікація голови сім'ї",
+  "focal_point_verification_title_adult": "Перевірка для дорослих",
+  "focal_point_verification_title_child": "Перевірка дитини",
+  "focal_point_verification_document_description": "Сфотографуйте документ, що посвідчує особу",
+  "focal_point_verification_face_and_document_description": "Зробіть фото, тримаючи поряд з обличчем документ, що посвідчую особу. Якщо є можливість, попросіть когось зробити Ваше фото.",
+  "focal_point_verification_continue_button": "Продовжити",
+  "focal_point_verification_back_button": "Назад",
+  "focal_point_verification_error_button": "Закрити",
+  "focal_point_verification_error_title": "Помилка перевірки",
+  "focal_point_details_title": "Інформація про голову сім'ї",
+  "focal_point_details_title_adult": "Подробиці для дорослих",
+  "focal_point_details_title_child": "Деталі дитини",
+  "focal_point_details": [
+    {
+      "id": "PhysicalDisability",
+      "type": "HorizontalRadioButton",
+      "text": "Чи є у Вас фізична інвалідність?",
+      "options": [
         {
-            "id" : "BirthCertificate",
-            "text" : "свідотство про народження"
+          "id": "No",
+          "text": "Ні"
         },
         {
-            "id" : "InternationalPassport",
-            "text" : "Закордонний паспорт"
-        },
-        {
-            "id" : "NationalId",
-            "text" : "Внутрішній паспорт громадянина України"
+          "id": "Yes",
+          "text": "Так"
         }
-    ],
-    "focal_point_registration_in_person_title" : "Особиста подача",
-    "focal_point_registration_in_person" : [
+      ]
+    },
+    {
+      "id": "MentalDisability",
+      "type": "HorizontalRadioButton",
+      "text": "Чи є у Вас психічна інвалідність?",
+      "options": [
         {
-            "id" : "Other",
-            "text" : "Інші документи"
+          "id": "No",
+          "text": "Ні"
+        },
+        {
+          "id": "Yes",
+          "text": "Так"
         }
-    ],
-    "focal_point_registration_back" : "Назад",
-    "focal_point_identity" : [
+      ]
+    },
+    {
+      "id": "ChronicMedicalIllness",
+      "type": "HorizontalRadioButton",
+      "text": "Чи є у Вас хронічні захворювання?",
+      "options": [
         {
-            "id" : "DocumentNumber",
-            "text" : "Номер документа",
-            "hint" : "Номер документа ..."
+          "id": "No",
+          "text": "Ні"
         },
         {
-            "id" : "GivenName",
-            "text" : "Ім'я",
-            "hint" : "Напишіть Ваші дані (латиницею) як у документах..."
-        },
-        {
-            "id" : "FamilyName",
-            "text" : "Прізвище",
-            "hint" : "Family Name..."
-        },
-        {
-            "id" : "PatronymicName",
-            "text" : "По батькові",
-            "hint" : "Напишіть Ваші дані (латиницею) як у документах..."
-        },
-        {
-            "id" : "Sex",
-            "text" : "Стать",
-            "hint" : "",
-            "type" : "HorizontalRadioButton",
-            "options" : [
-                {
-                    "id" : "Female",
-                    "text" : "Жіноча"
-                },
-                {
-                    "id" : "Male",
-                    "text" : "Чоловіча"
-                }
-            ]
-        },
-        {
-            "id" : "DateOfBirth",
-            "text" : "Дата народження",
-            "hint" : "",
-            "type" : "DatePicker"
+          "id": "Yes",
+          "text": "Так"
         }
-    ],
-    "focal_point_identity_title" : "Ідентифікація голови сім'ї",
-    "focal_point_identity_continue_button" : "Продовжити",
-    "focal_point_identity_back_button" : "Назад",
-    "focal_point_verification_title" : "Верифікація голови сім'ї",
-    "focal_point_verification_document_description" : "Сфотографуйте документ, що посвідчує особу",
-    "focal_point_verification_face_and_document_description" : "Зробіть фото, тримаючи поряд з обличчем документ, що посвідчую особу. Якщо є можливість, попросіть когось зробити Ваше фото.",
-    "focal_point_verification_continue_button" : "Продовжити",
-    "focal_point_verification_back_button" : "Назад",
-    "focal_point_verification_error_button" : "Закрити",
-    "focal_point_verification_error_title" : "Помилка перевірки",
-    "focal_point_details_title" : "Інформація про голову сім'ї",
-    "focal_point_details" : [
+      ]
+    },
+    {
+      "id": "PregnantOrLactating",
+      "type": "HorizontalRadioButton",
+      "text": "Ви вагітні або годуєте груддю ?",
+      "note": "",
+      "options": [
         {
-            "id" : "PhysicalDisability",
-            "type" : "HorizontalRadioButton",
-            "text" : "Чи є у Вас фізична інвалідність?",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
+          "id": "No",
+          "text": "Ні"
         },
         {
-            "id" : "MentalDisability",
-            "type" : "HorizontalRadioButton",
-            "text" : "Чи є у Вас психічна інвалідність?",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
-        },
-        {
-            "id" : "ChronicMedicalIllness",
-            "type" : "HorizontalRadioButton",
-            "text" : "Чи є у Вас хронічні захворювання?",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
-        },
-        {
-            "id" : "PregnantOrLactating",
-            "type" : "HorizontalRadioButton",
-            "text" : "Ви вагітні або годуєте груддю ?",
-            "note" : "",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
+          "id": "Yes",
+          "text": "Так"
         }
-    ],
-    "focal_point_details_continue_button" : "Продовжити",
-    "focal_point_details_back_button" : "Назад",
-    "family_members_title" : "Члени сім'ї",
-    "family_members_focal_point": "Голова сім'ї",
-    "family_members_other_adults" : "Інші дорослі у сім'ї",
-    "family_members_children" : "Діти у сім'ї",
-    "family_members_other_adults_name_hint" : "Ім'я...",
-    "family_members_other_adults_surname_hint" : "Прізвище...",
-    "family_members_children_name_hint" : "Ім'я...",
-    "family_members_children_surname_hint" : "Прізвище...",
-    "family_members_continue_button" : "Продовжити",
-    "family_members_back_button" : "Назад",
-    "loop_members_title" : "Надайте документи усіх членів сім'ї",
-    "loop_members_focal_point" : "Голова сім'ї",
-    "loop_members_other_adults" : "Інші дорослі у сім'ї",
-    "loop_members_children" : "Діти у сім'ї",
-    "loop_members_other_adults_note" : "Будь ласка, зареєструйте всіх дорослих у вашій родині...",
-    "loop_members_children_note" : "Будь ласка, зареєструйте всіх дітей у вашій родині...",
-    "statistics_title" : "Статистика",
-    "statistics_description" : "Розкажіть нам більше про себе та свою сім'ю\n\nВаші відповіді ніяк не впливають на рішення чи належить вам фінансова допомоги.",
-    "statistics_items" : [
+      ]
+    }
+  ],
+  "focal_point_details_continue_button": "Продовжити",
+  "focal_point_details_back_button": "Назад",
+  "family_members_title": "Члени сім'ї",
+  "family_members_focal_point": "Голова сім'ї",
+  "family_members_other_adults": "Інші дорослі у сім'ї",
+  "family_members_children": "Діти у сім'ї",
+  "family_members_other_adults_name_hint": "Ім'я...",
+  "family_members_other_adults_surname_hint": "Прізвище...",
+  "family_members_children_name_hint": "Ім'я...",
+  "family_members_children_surname_hint": "Прізвище...",
+  "family_members_continue_button": "Продовжити",
+  "family_members_back_button": "Назад",
+  "loop_members_title": "Надайте документи усіх членів сім'ї",
+  "loop_members_focal_point": "Голова сім'ї",
+  "loop_members_other_adults": "Інші дорослі у сім'ї",
+  "loop_members_children": "Діти у сім'ї",
+  "loop_members_other_adults_note": "Будь ласка, зареєструйте всіх дорослих у вашій родині...",
+  "loop_members_children_note": "Будь ласка, зареєструйте всіх дітей у вашій родині...",
+  "statistics_title": "Статистика",
+  "statistics_description": "Розкажіть нам більше про себе та свою сім'ю\n\nВаші відповіді ніяк не впливають на рішення чи належить вам фінансова допомоги.",
+  "statistics_items": [
+    {
+      "id": "Oblast",
+      "text": "У якій області Ви проживали до того, як залишили Україну?",
+      "hint": "Вибрати область...",
+      "type": "Picker",
+      "options": [
         {
-            "id" : "Oblast",
-            "text" : "У якій області Ви проживали до того, як залишили Україну?",
-            "hint" : "Вибрати область...",
-            "type" : "Picker",
-            "options" : [
-                {"id": "Cherkasy", "text": "Cherkasy"},
-                {"id": "Chernihiv", "text": "Chernihiv"},
-                {"id": "Chernivtsi", "text": "Chernivtsi"},
-                {"id": "Dnipropetrovsk", "text": "Dnipropetrovsk"},
-                {"id": "Donetsk", "text": "Donetsk"},
-                {"id": "IvanoFrankivsk", "text": "Ivano-Frankivsk"},
-                {"id": "Kharkiv", "text": "Kharkiv"},
-                {"id": "Kherson", "text": "Kherson"},
-                {"id": "Khmelnytskyi", "text": "Khmelnytskyi"},
-                {"id": "Kyiv", "text": "Kyiv"},
-                {"id": "Kirovohrad", "text": "Kirovohrad"},
-                {"id": "Luhansk", "text": "Luhansk"},
-                {"id": "Lviv", "text": "Lviv"},
-                {"id": "Mykolaiv", "text": "Mykolaiv"},
-                {"id": "Odessa", "text": "Odessa"},
-                {"id": "Poltava", "text": "Poltava"},
-                {"id": "Rivne", "text": "Rivne"},
-                {"id": "Sumy", "text": "Sumy"},
-                {"id": "Ternopil", "text": "Ternopil"},
-                {"id": "Vinnytsia", "text": "Vinnytsia"},
-                {"id": "Volyn", "text": "Volyn"},
-                {"id": "Zakarpattia", "text": "Zakarpattia"},
-                {"id": "Zaporizhzhia", "text": "Zaporizhzhia"},
-                {"id": "Zhytomyr", "text": "Zhytomyr"}
-            ]
+          "id": "Cherkasy",
+          "text": "Cherkasy"
         },
         {
-            "id" : "RomaniaArrivalDate",
-            "hint" : "",
-            "text" : "Яка дата Вашого прибуття до Румунії?",
-            "type" : "DatePicker"
+          "id": "Chernihiv",
+          "text": "Chernihiv"
         },
         {
-            "id" : "UkrainianBankAccount",
-            "text" : "Чи є у Вас доступ до банківського рахунку в Україні?",
-            "hint" : "",
-            "type" : "HorizontalRadioButtonConditional",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ],
-            "conditionItem" :
-            {
-                "id" : "Yes",
-                "item" : {
-                    "id" : "UkrainianBankName",
-                    "hint" : "Введіть свій основний банк",
-                    "text" : "Послугами якого банку Ви користувалися?"
-                }
-            }
-            
-        },
-        
-        {
-            "id" : "RomanianBankAccount",
-            "text" : "Чи є у Вас доступ до рахунку у румунському банку?",
-            "hint" : "",
-            "type" : "HorizontalRadioButtonConditional",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ],
-            "conditionItem" :
-            {
-                "id" : "Yes",
-                "item" :{
-                    "id" : "RomanianBankName",
-                    "hint" : "Введіть свій основний банк",
-                    "text" : "Який ваш основний банк у Румунії?"
-                },
-            }
-            
-        },
-        
-        {
-            "id" : "ConsentForSharing",
-            "text" : "Румунський Червоний Хрест і МКЧХ співпрацюють з іншими неурядовими (благодійними) організаціями, щоб допомогти людям з України, які переміщуються внаслідок конфлікту. Щоб працювати разом та надати допомогу, ми повинні мати можливість повідомити про Вашу особу та Ваші контактні дані, щоб вони могли зв’язатися з Вами.\n\nВи згодні?",
-            "hint" : "",
-            "type" : "HorizontalRadioButton",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
+          "id": "Chernivtsi",
+          "text": "Chernivtsi"
         },
         {
-            "id" : "ConsentForPhotos",
-            "text" : "Щоб допомогти Червоному Хресту покращити швидкість та зручність процесу подання заявок, ми хотіли б зберігати Ваші фотографії до 2 тижнів. Це допоможе нам зрозуміти, як ми можемо покращити наші внутрішні системи та процеси. Через 2 тижні Ваші фотографії з документами буде повністю видалено з нашої системи.\n\nВи згодні?",
-            "hint" : "",
-            "type" : "HorizontalRadioButton",
-            "options" : [
-                {
-                    "id" : "No",
-                    "text" : "Ні"
-                },
-                {
-                    "id" : "Yes",
-                    "text" : "Так"
-                }
-            ]
+          "id": "Dnipropetrovsk",
+          "text": "Dnipropetrovsk"
+        },
+        {
+          "id": "Donetsk",
+          "text": "Donetsk"
+        },
+        {
+          "id": "IvanoFrankivsk",
+          "text": "Ivano-Frankivsk"
+        },
+        {
+          "id": "Kharkiv",
+          "text": "Kharkiv"
+        },
+        {
+          "id": "Kherson",
+          "text": "Kherson"
+        },
+        {
+          "id": "Khmelnytskyi",
+          "text": "Khmelnytskyi"
+        },
+        {
+          "id": "Kyiv",
+          "text": "Kyiv"
+        },
+        {
+          "id": "Kirovohrad",
+          "text": "Kirovohrad"
+        },
+        {
+          "id": "Luhansk",
+          "text": "Luhansk"
+        },
+        {
+          "id": "Lviv",
+          "text": "Lviv"
+        },
+        {
+          "id": "Mykolaiv",
+          "text": "Mykolaiv"
+        },
+        {
+          "id": "Odessa",
+          "text": "Odessa"
+        },
+        {
+          "id": "Poltava",
+          "text": "Poltava"
+        },
+        {
+          "id": "Rivne",
+          "text": "Rivne"
+        },
+        {
+          "id": "Sumy",
+          "text": "Sumy"
+        },
+        {
+          "id": "Ternopil",
+          "text": "Ternopil"
+        },
+        {
+          "id": "Vinnytsia",
+          "text": "Vinnytsia"
+        },
+        {
+          "id": "Volyn",
+          "text": "Volyn"
+        },
+        {
+          "id": "Zakarpattia",
+          "text": "Zakarpattia"
+        },
+        {
+          "id": "Zaporizhzhia",
+          "text": "Zaporizhzhia"
+        },
+        {
+          "id": "Zhytomyr",
+          "text": "Zhytomyr"
         }
-    ],
-    "statistics_continue_button" : "Продовжити",
-    "statistics_back_button" : "Назад",
-    "confirmation_title" : "Підтвердження",
-    "confirmation_thank_you" : "Дякуємо за заявку!",
-    "confirmation_registration_id_description" : "Код Вашої реєстрації",
-    "confirmation_description" : "Що далі?\n\nВаша заявка буде розглянута. Перевірити свій статус можна за допомогою автоматизованого канал чату.\n\nБудь ласка, не подавайте іншу заявку. Це сповільнить процес.\n\nНікому не повідомляйте номер Вашої заявки.\n\nДопомога Червоного Хреста завжди безкоштовна.\n\nДодаткові ресурси\n\nІнформація для українців у Румунії\nhttps://dopomoha.ro/uk\n\nПосольство України у Румунії\nhttps://romania.mfa.gov.ua/\n",
-    "confirmation_experience_title" : "Яким був Ваш досвід?",
-    "confirmation_experience" : [
-        
+      ]
+    },
+    {
+      "id": "RomaniaArrivalDate",
+      "hint": "",
+      "text": "Яка дата Вашого прибуття до Румунії?",
+      "type": "DatePicker"
+    },
+    {
+      "id": "UkrainianBankAccount",
+      "text": "Чи є у Вас доступ до банківського рахунку в Україні?",
+      "hint": "",
+      "type": "HorizontalRadioButtonConditional",
+      "options": [
         {
-            "id" : "Sad",
-            "text" : "☹️"
+          "id": "No",
+          "text": "Ні"
         },
         {
-            "id" : "Neutral",
-            "text": "😐"
-        },
-        {
-            "id" : "Happy",
-            "text" : "🙂"
+          "id": "Yes",
+          "text": "Так"
         }
-    ],
-    "confirmation_finish_button" : "Кінець"
+      ],
+      "conditionItem": {
+        "id": "Yes",
+        "item": {
+          "id": "UkrainianBankName",
+          "hint": "Введіть свій основний банк",
+          "text": "Послугами якого банку Ви користувалися?"
+        }
+      }
+
+    },
+
+    {
+      "id": "ConsentForSharing",
+      "text": "Румунський Червоний Хрест і МКЧХ співпрацюють з іншими неурядовими (благодійними) організаціями, щоб допомогти людям з України, які переміщуються внаслідок конфлікту. Щоб працювати разом та надати допомогу, ми повинні мати можливість повідомити про Вашу особу та Ваші контактні дані, щоб вони могли зв’язатися з Вами.\n\nВи згодні?",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
+        {
+          "id": "No",
+          "text": "Ні"
+        },
+        {
+          "id": "Yes",
+          "text": "Так"
+        }
+      ]
+    },
+    {
+      "id": "ConsentForPhotos",
+      "text": "Щоб допомогти Червоному Хресту покращити швидкість та зручність процесу подання заявок, ми хотіли б зберігати Ваші фотографії до 2 тижнів. Це допоможе нам зрозуміти, як ми можемо покращити наші внутрішні системи та процеси. Через 2 тижні Ваші фотографії з документами буде повністю видалено з нашої системи.\n\nВи згодні?",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
+        {
+          "id": "No",
+          "text": "Ні"
+        },
+        {
+          "id": "Yes",
+          "text": "Так"
+        }
+      ]
+    }
+  ],
+  "statistics_continue_button": "Продовжити",
+  "statistics_back_button": "Назад",
+  "confirmation_title": "Підтвердження",
+  "confirmation_thank_you": "Дякуємо за заявку!",
+  "confirmation_registration_id_description": "Код Вашої реєстрації",
+  "confirmation_description": "Що далі?\n\nВаша заявка буде розглянута. Перевірити свій статус можна за допомогою автоматизованого канал чату.\n\nБудь ласка, не подавайте іншу заявку. Це сповільнить процес.\n\nНікому не повідомляйте номер Вашої заявки.\n\nДопомога Червоного Хреста завжди безкоштовна.\n\nДодаткові ресурси\n\nІнформація для українців у Румунії\nhttps://dopomoha.ro/uk\n\nПосольство України у Румунії\nhttps://romania.mfa.gov.ua/\n",
+  "confirmation_experience_title": "Яким був Ваш досвід?",
+  "confirmation_experience": [
+
+    {
+      "id": "Sad",
+      "text": "☹️"
+    },
+    {
+      "id": "Neutral",
+      "text": "😐"
+    },
+    {
+      "id": "Happy",
+      "text": "🙂"
+    }
+  ],
+  "confirmation_finish_button": "Кінець",
+  "contact_channels_title": "Контактні канали",
+  "contact_channels_description": "Перевірте принаймні один із каналів, щоб ми могли зв’язатися з вами.",
+  "contact_channels": [
+    {
+      "id": "Viber",
+      "text": "Viber"
+    },
+    {
+      "id": "Telegram",
+      "text": "Telegram"
+    }
+  ],
+  "contact_channels_back_button": "Назад",
+  "contact_channels_continue_button": "Продовжити",
+  "contact_channels_detail_back_button": "Назад",
+  "contact_channels_detail_continue_button": "Продовжити",
+
+  "contact_channels_viber_title": "Додайте Viber",
+  "contact_channels_viber_get_code_description": "Натисніть кнопку нижче, щоб відкрити Viber",
+  "contact_channels_viber_get_code_button": "Перейдіть до IFRC Bot",
+  "contact_channels_viber_say_hi_title": "Передайте привіт IFRC Bot і отримайте код",
+  "contact_channels_viber_enter_code_description": "введіть код наведений нижче",
+  "contact_channels_viber_enter_code_hint": "код",
+  "contact_channels_viber_url": "viber://pa?chatURI=ifrcbot",
+  
+  "contact_channels_telegram_title": "Додайте Telegram",
+  "contact_channels_telegram_get_code_description": "Натисніть кнопку нижче, щоб відкрити Telegram",
+  "contact_channels_telegram_get_code_button": "Перейдіть до IFRC Bot",
+  "contact_channels_telegram_say_hi_title": "Передайте привіт IFRC Bot і отримайте код",
+  "contact_channels_telegram_enter_code_description": "введіть код наведений нижче",
+  "contact_channels_telegram_enter_code_hint": "код",
+  "contact_channels_telegram_url": "https://t.me/ifrcbot"
+  
+  "contact_channels_whatsapp_title": "Додайте Telegram",
+  "contact_channels_whatsapp_get_code_description": "Натисніть кнопку нижче, щоб відкрити Telegram",
+  "contact_channels_whatsapp_get_code_button": "Перейдіть до IFRC Bot",
+  "contact_channels_whatsapp_say_hi_title": "Передайте привіт IFRC Bot і отримайте код",
+  "contact_channels_whatsapp_enter_code_description": "введіть код наведений нижче",
+  "contact_channels_whatsapp_enter_code_hint": "код",
+  "contact_channels_whatsapp_url": "https://t.me/ifrcbot"
 }
