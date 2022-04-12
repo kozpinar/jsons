@@ -1,518 +1,535 @@
 {
-    "supported_languages": [
+  "supported_languages": [
+    {
+      "id": "en",
+      "text": "English"
+    },
+    {
+      "id": "uk",
+      "text": "УКРАЇНСЬКИЙ"
+    }
+  ],
+  "landing_title": "Financial Assistance Program - Ukraine Crisis",
+  "landing_description": "The Romanian Red Cross, with support from IFRC, is providing financial assistance to citizens people who have been displaced to Romania by the conflict in Ukraine.\n\nThrough this app you can apply for assistance whever you are, submit documents, and receive notification of the result of your application. Red Cross assistance is free and you should not be asked for anything in exchange if you are, please report it to [XXXXXX].\n\nThe assistance is to help you best meet the needs of you and your family.\n\nTo get through the application, have ready:\n\n1. Identity documents for everyone in your household.\n2. Left Ukraine because of the crisis.\n3. Be one of these categories:\n- Female headed households\n- Households with 2 or more children\n- Has a member of the family living with a disability\n- Has a member of the household that is elderly (60+)\n- Households with pregnant or lactating women\n- Single female with no other adult member\n- Lack of free access to health care\n\nIf we cannot verify your identity, you will recieve a message with information on what to do next.\n\nFor safety purposes:\n\nDo not trust or pay 3rd parties who claim they can help you access this program.\nWe do not distribute financial assistance to minors/children",
+  "landing_continue_button": "Start Registration",
+  "consent_title": "Consent to the Collection & Processing of Personal Data",
+  "consent_description": "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent Societies collects and processes your personal data as part of this financial assistance application process:\n\n1. We collect personal data for each member in the household. This includes name, date of birth\n2. We collect government issued identity document, which could include QR codes from the Diia App or photos of Ukrainian government issued identity documents such as national identification card, passports, or driver's license and images of individuals holding government identity documents.\n3. We collect location through mobile phones or browsers.\n\nWe are collecting this information to verify your identification and eligibility for Red Cross financial assistance.\n\nYou must consent to the collection of personal data to be able to apply for financial assistance.\n\n",
+  "consent_continue_button": "Accept & Continue",
+  "consent_back_button": "Back",
+  "consent_comm_title": "Consent to Receive Information",
+  "consent_comm_description": "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Telegram, Viber, or email to notify you of updates to your application. You must consent to receive information via these methods.\n\n\nYou must consent to the collection of personal data to be able to apply for financial assistance. Without consent, we cannot contact you to inform you about the status of your application.",
+  "consent_comm_continue_button": "Accept & Continue",
+  "consent_comm_back_button": "Back",
+  "location_check_title": "Location Check",
+  "location_check_description": "When asked, please allow your device to provide location information to us.",
+  "location_check_use_description": "We use the location information as part of the eligibility criteria.\n\nWe will not share your location information to 3rd parties.",
+  "location_check_continue_button": "Continue",
+  "location_check_back_button": "Back",
+  "checklist_title": "Checklist Before Start",
+  "checklist_description_before_start": "Before you start the registration process, please make sure you have everything below.\n\nThe registration process will take 15-20 minutes in total.",
+  "checklist_check_first_content": [
+    "Appoint a Focal Point"
+  ],
+  "checklist_have_diia_app": "Have the Diia App?",
+  "checklist_diia_app_description": "Using the Diia App is the most convenient way to get registered with the programme. If you don't have the app, we recommend that you first download the Diia app for all adults in your family on their personal phones now.",
+  "checklist_check_adults_title": "Documents for each person (14 years old and older)",
+  "checklist_check_adults_content": [
+    "Diia App OR",
+    "International Passport OR",
+    "National ID OR",
+    "Driving License"
+  ],
+  "checklist_check_children_title": "Documents for each person (Under 14 years old)",
+  "checklist_check_children_content": [
+    "Mother's Diia App (Digital Birth Certificates) OR",
+    "Paper Birth Certificate"
+  ],
+  "checklist_continue_button": "I have all these things. Let's start.",
+  "checklist_back_button": "Back",
+  "permission_title": "App Permissions for Camera and Location",
+  "permission_description": "In order to continue with registration for assistance, we need to have the follow app permissions from you.",
+  "permission_location_description": "We need this to check if you are in one of the countries covered by the assistance programme",
+  "permission_camera_description": "We need this to take pictures for document and identity verification",
+  "permission_continue_button": "App Permissions - Approved",
+  "permission_back_button": "Back",
+  "permission_camera": "Camera",
+  "permission_location": "Location",
+  "permission_granted": "(Permission Granted)",
+  "permission_not_granted": "(Permission Not Granted)",
+  "permission_camera_settings_alert_title": " Give permission via Settings",
+  "permission_camera_settings_alert_description": "We need this to check if you are in one of the countries covered by this assistance programme.",
+  "permission_camera_settings_alert_ok": "Settings",
+  "permission_camera_settings_alert_cancel": "Cancel",
+  "permission_location_settings_alert_title": " Give permission via Settings",
+  "permission_location_settings_alert_desciption": "We need this to take pictures for verification purposes.",
+  "permission_location_settings_alert_ok": "Settings",
+  "permission_location_settings_alert_cancel": "Cancel",
+  "attestation_title": "About Your Situation",
+  "attestation_questions": [
+    {
+      "id": "CurrentSitation",
+      "text": "We want to assist those who left Ukraine due to the conflict. What best describes your current situation in Romania?",
+      "options": [
         {
-            "id": "en",
-            "text": "English"
+          "id": "LeftUkraineDuetoConflict",
+          "text": "I left Ukraine because of the conflict."
         },
         {
-            "id": "uk",
-            "text": "Ð£ÐšÐ ÐÐ‡ÐÐ¡Ð¬ÐšÐ˜Ð™"
+          "id": "ResidedInRomaniaBefore",
+          "text": "I resided in Romania before Febuary 24, 2022."
+        },
+        {
+          "id": "WasInRomaniaCantReturn",
+          "text": "I was in Romania before Feb 24, 2022 but could not return to the Ukraine because of the conflict."
+        },
+        {
+          "id": "DidNotLeaveDueToConflict",
+          "text": "I did not leave Ukraine due to the conflict."
         }
-    ],
-    "landing_title": "Financial Assistance Program - Ukraine Crisis",
-    "landing_description": "The Romanian Red Cross, with support from IFRC, is providing financial assistance to citizens people who have been displaced to Romania by the conflict in Ukraine.\n\nThrough this app you can apply for assistance whever you are, submit documents, and receive notification of the result of your application. Red Cross assistance is free and you should not be asked for anything in exchange if you are, please report it to [XXXXXX].\n\nThe assistance is to help you best meet the needs of you and your family.\n\nTo get through the application, have ready:\n\n1. Identity documents for everyone in your household.\n2. Left Ukraine because of the crisis.\n3. Be one of these categories:\n- Female headed households\n- Households with 2 or more children\n- Has a member of the family living with a disability\n- Has a member of the household that is elderly (60+)\n- Households with pregnant or lactating women\n- Single female with no other adult member\n- Lack of free access to health care\n\nIf we cannot verify your identity, you will recieve a message with information on what to do next.\n\nFor safety purposes:\n\nDo not trust or pay 3rd parties who claim they can help you access this program.\nWe do not distribute financial assistance to minors/children",
-    "landing_continue_button": "Start Registration",
-    "consent_title": "Consent to the Collection & Processing of Personal Data",
-    "consent_description": "The Romanian Red Cross and the International Federation of Red Cross and Red Crescent Societies collects and processes your personal data as part of this financial assistance application process:\n\n1. We collect personal data for each member in the household. This includes name, date of birth\n2. We collect government issued identity document, which could include QR codes from the Diia App or photos of Ukrainian government issued identity documents such as national identification card, passports, or driver's license and images of individuals holding government identity documents.\n3. We collect location through mobile phones or browsers.\n\nWe are collecting this information to verify your identification and eligibility for Red Cross financial assistance.\n\nYou must consent to the collection of personal data to be able to apply for financial assistance.\n\n",
-    "consent_continue_button": "Accept & Continue",
-    "consent_back_button": "Back",
-    "consent_comm_title": "Consent to Receive Information",
-    "consent_comm_description": "As part of the Red Cross financial assistance program, we plan to use SMS, WhatsApp, Telegram, Viber, or email to notify you of updates to your application. You must consent to receive information via these methods.\n\n\nYou must consent to the collection of personal data to be able to apply for financial assistance. Without consent, we cannot contact you to inform you about the status of your application.",
-    "consent_comm_continue_button": "Accept & Continue",
-    "consent_comm_back_button": "Back",
-    "location_check_title": "Location Check",
-    "location_check_description": "When asked, please allow your device to provide location information to us.",
-    "location_check_use_description": "We use the location information as part of the eligibility criteria.\n\nWe will not share your location information to 3rd parties.",
-    "location_check_continue_button": "Continue",
-    "location_check_back_button": "Back",
-    "checklist_title": "Checklist Before Start",
-    "checklist_description_before_start": "Before you start the registration process, please make sure you have everything below.\n\nThe registration process will take 15-20 minutes in total.",
-    "checklist_check_first_content": [
-        "Appoint a Focal Point"
-    ],
-    "checklist_have_diia_app": "Have the Diia App?",
-    "checklist_diia_app_description": "Using the Diia App is the most convenient way to get registered with the programme. If you don't have the app, we recommend that you first download the Diia app for all adults in your family on their personal phones now.",
-    "checklist_check_adults_title": "Documents for each person (14 years old and older)",
-    "checklist_check_adults_content": [
-        "Diia App OR",
-        "International Passport OR",
-        "National ID OR",
-        "Driving License"
-    ],
-    "checklist_check_children_title": "Documents for each person (Under 14 years old)",
-    "checklist_check_children_content": [
-        "Mother's Diia App (Digital Birth Certificates) OR",
-        "Paper Birth Certificate"
-    ],
-    "checklist_continue_button": "I have all these things. Let's start.",
-    "checklist_back_button": "Back",
-    "permission_title": "App Permissions for Camera and Location",
-    "permission_description": "In order to continue with registration for assistance, we need to have the follow app permissions from you.",
-    "permission_location_description": "We need this to check if you are in one of the countries covered by the assistance programme",
-    "permission_camera_description": "We need this to take pictures for document and identity verification",
-    "permission_continue_button": "App Permissions - Approved",
-    "permission_back_button": "Back",
-    "permission_camera": "Camera",
-    "permission_location": "Location",
-    "permission_granted": "(Permission Granted)",
-    "permission_not_granted": "(Permission Not Granted)",
-    "permission_camera_settings_alert_title": " Give permission via Settings",
-    "permission_camera_settings_alert_description": "We need this to check if you are in one of the countries covered by this assistance programme.",
-    "permission_camera_settings_alert_ok": "Settings",
-    "permission_camera_settings_alert_cancel": "Cancel",
-    "permission_location_settings_alert_title": " Give permission via Settings",
-    "permission_location_settings_alert_desciption": "We need this to take pictures for verification purposes.",
-    "permission_location_settings_alert_ok": "Settings",
-    "permission_location_settings_alert_cancel": "Cancel",
-    "attestation_title": "About Your Situation",
-    "attestation_questions": [
+      ]
+    },
+
+    {
+      "id": "HealthCare",
+      "text": "In Romania, do you have acccess to health care?",
+      "options": [
         {
-            "id": "CurrentSitation",
-            "text": "We want to assist those who left Ukraine due to the conflict. What best describes your current situation in Romania?",
-            "options": [
-                {
-                    "id": "LeftUkraineDuetoConflict",
-                    "text": "I left Ukraine because of the conflict."
-                },
-                {
-                    "id": "ResidedInRomaniaBefore",
-                    "text": "I resided in Romania before Febuary 24, 2022."
-                },
-                {
-                    "id": "WasInRomaniaCantReturn",
-                    "text": "I was in Romania before Feb 24, 2022 but could not return to the Ukraine because of the conflict."
-                },
-                {
-                    "id": "DidNotLeaveDueToConflict",
-                    "text": "I did not leave Ukraine due to the conflict."
-                }
-            ]
+          "id": "HealthCareYes",
+          "text": "Yes"
         },
         {
-            "id": "HealthCare",
-            "text": "In Romania, do you have acccess to health care?",
-            "options": [
-                {
-                    "id": "HealthCareYes",
-                    "text": "Yes"
-                },
-                {
-                    "id": "HealthCareNo",
-                    "text": "No"
-                },
-                {
-                    "id": "HealthCareDontKnow",
-                    "text": "I don't know"
-                }
-            ]
+          "id": "HealthCareNo",
+          "text": "No"
+        },
+        {
+          "id": "HealthCareDontKnow",
+          "text": "I don't know"
         }
-    ],
-    "attestation_continue_button": "Continue",
-    "attestation_back_button": "Back",
-    "focal_point_registration_title": "Focal Point Registration",
-    "focal_point_registration_title_adult": "Adult Registration",
-    "focal_point_registration_title_child": "Child Registration",
-    "focal_point_registration_family_focal_point": "The focal point is a person who makes decisions for the family, right now.\n\nAre you the focal point for your household?",
-    "focal_point_registration_family_focal_point_yes": "Yes",
-    "focal_point_registration_family_focal_point_no": "No",
-    "focal_point_registration_family_focal_point_no_description": "You must first register the focal point of the household.",
-    "focal_point_registration_verify_title": "How do you want to be verified?",
-    "focal_point_registration_diia": "via Diia",
-    "focal_point_registration_diia_description": "This is the fastest way to get verified. If you don't have Diia app, download it.",
-    "focal_point_registration_alternatives_title": "Normal Review",
-    "focal_point_registration_alternatives": [
+
+      ]
+    }
+  ],
+  "attestation_continue_button": "Continue",
+  "attestation_back_button": "Back",
+  "focal_point_registration_title": "Focal Point Registration",
+  "focal_point_registration_title_adult": "Adult Registration",
+  "focal_point_registration_title_child": "Child Registration",
+  "focal_point_registration_family_focal_point": "The focal point is a person who makes decisions for the family, right now.\n\nAre you the focal point for your household?",
+  "focal_point_registration_family_focal_point_yes": "Yes",
+  "focal_point_registration_family_focal_point_no": "No",
+  "focal_point_registration_family_focal_point_no_description": "You must first register the focal point of the household.",
+  "focal_point_registration_verify_title": "How do you want to be verified?",
+  "focal_point_registration_diia": "via Diia",
+  "focal_point_registration_diia_description": "This is the fastest way to get verified. If you don't have Diia app, download it.",
+  "focal_point_registration_alternatives_title": "Normal Review",
+  "focal_point_registration_alternatives": [
+    {
+      "id": "InternationalPassport",
+      "text": "International Passport"
+    },
+    {
+      "id": "NationalId",
+      "text": "Ukranian ID"
+    },
+    {
+      "id": "DrivingLicense",
+      "text": "Driving License"
+    }
+  ],
+  "focal_point_registration_alternatives_children": [
+    {
+      "id": "BirthCertificate",
+      "text": "Birth Certificate"
+    },
+    {
+      "id": "InternationalPassport",
+      "text": "International Passport"
+    },
+    {
+      "id": "NationalId",
+      "text": "Ukranian ID"
+    }
+  ],
+  "focal_point_registration_in_person_title": "In-Person Review",
+  "focal_point_registration_in_person": [
+    {
+      "id": "Other",
+      "text": "Other ID"
+    }
+  ],
+  "focal_point_registration_back": "Back",
+  "focal_point_identity": [
+    {
+      "id": "DocumentNumber",
+      "text": "Document Number",
+      "hint": "Document Number..."
+    },
+    {
+      "id": "GivenName",
+      "text": "Given Name",
+      "hint": "Name..."
+    },
+    {
+      "id": "FamilyName",
+      "text": "Family Name",
+      "hint": "Family Name..."
+    },
+    {
+      "id": "Sex",
+      "text": "Sex",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
         {
-            "id": "InternationalPassport",
-            "text": "International Passport"
+          "id": "Female",
+          "text": "Female"
         },
         {
-            "id": "NationalId",
-            "text": "Ukranian ID"
-        },
-        {
-            "id": "DrivingLicense",
-            "text": "Driving License"
+          "id": "Male",
+          "text": "Male"
         }
-    ],
-    "focal_point_registration_alternatives_children": [
+      ]
+    },
+    {
+      "id": "DateOfBirth",
+      "text": "Date of Birth",
+      "hint": "",
+      "type": "DateTextField"
+    }
+  ],
+  "focal_point_identity_title": "Focal Point Identity",
+  "focal_point_identity_title_adult": "Adult Identity",
+  "focal_point_identity_title_child": "Child Identity",
+  "focal_point_identity_continue_button": "Continue",
+  "focal_point_identity_back_button": "Back",
+  "focal_point_verification_title": "Focal Point Verification",
+  "focal_point_verification_title_adult": "Adult Verification",
+  "focal_point_verification_title_child": "Child Verification",
+  "focal_point_verification_document_description": "Take a picture of your identity document",
+  "focal_point_verification_face_and_document_description": "Take a picture of your face next to the identity document",
+  "focal_point_verification_continue_button": "Continue",
+  "focal_point_verification_back_button": "Back",
+  "focal_point_verification_error_button": "Close",
+  "focal_point_verification_error_title": "Verification Error",
+  "focal_point_details_title": "Focal Point Details",
+  "focal_point_details_title_adult": "Adult Details",
+  "focal_point_details_title_child": "Child Details",
+
+  "focal_point_details": [
+    {
+      "id": "PhysicalDisability",
+      "type": "HorizontalRadioButton",
+      "text": "Is this person living with a physical disability?",
+      "options": [
         {
-            "id": "BirthCertificate",
-            "text": "Birth Certificate"
+          "id": "No",
+          "text": "No"
         },
         {
-            "id": "InternationalPassport",
-            "text": "International Passport"
-        },
-        {
-            "id": "NationalId",
-            "text": "Ukranian ID"
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "focal_point_registration_in_person_title": "In-Person Review",
-    "focal_point_registration_in_person": [
+      ]
+    },
+    {
+      "id": "MentalDisability",
+      "type": "HorizontalRadioButton",
+      "text": "Is this person living with a mental disability?",
+      "options": [
         {
-            "id": "Other",
-            "text": "Other ID"
+          "id": "No",
+          "text": "No"
+        },
+        {
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "focal_point_registration_back": "Back",
-    "focal_point_identity": [
+      ]
+    },
+    {
+      "id": "ChronicMedicalIllness",
+      "type": "HorizontalRadioButton",
+      "text": "Is this person living with a chronic medical illness?",
+      "options": [
         {
-            "id": "DocumentNumber",
-            "text": "Document Number",
-            "hint": "Document Number..."
+          "id": "No",
+          "text": "No"
         },
         {
-            "id": "GivenName",
-            "text": "Given Name",
-            "hint": "Name..."
-        },
-        {
-            "id": "FamilyName",
-            "text": "Family Name",
-            "hint": "Family Name..."
-        },
-        {
-            "id": "Sex",
-            "text": "Sex",
-            "hint": "",
-            "type": "HorizontalRadioButton",
-            "options": [
-                {
-                    "id": "Female",
-                    "text": "Female"
-                },
-                {
-                    "id": "Male",
-                    "text": "Male"
-                }
-            ]
-        },
-        {
-            "id": "DateOfBirth",
-            "text": "Date of Birth",
-            "hint": "",
-            "type": "DateTextField"
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "focal_point_identity_title": "Focal Point Identity",
-    "focal_point_identity_title_adult": "Adult Identity",
-    "focal_point_identity_title_child": "Child Identity",
-    "focal_point_identity_continue_button": "Continue",
-    "focal_point_identity_back_button": "Back",
-    "focal_point_verification_title": "Focal Point Verification",
-    "focal_point_verification_title_adult": "Adult Verification",
-    "focal_point_verification_title_child": "Child Verification",
-    "focal_point_verification_document_description": "Take a picture of your identity document",
-    "focal_point_verification_face_and_document_description": "Take a picture of your face next to the identity document",
-    "focal_point_verification_continue_button": "Continue",
-    "focal_point_verification_back_button": "Back",
-    "focal_point_verification_error_button": "Close",
-    "focal_point_verification_error_title": "Verification Error",
-    "focal_point_details_title": "Focal Point Details",
-    "focal_point_details_title_adult": "Adult Details",
-    "focal_point_details_title_child": "Child Details",
-    "focal_point_details": [
+      ]
+    },
+    {
+      "id": "PregnantOrLactating",
+      "type": "HorizontalRadioButton",
+      "text": "Is this person pregnant or breastfeeding?",
+      "note": "",
+      "options": [
         {
-            "id": "PhysicalDisability",
-            "type": "HorizontalRadioButton",
-            "text": "Is this person living with a physical disability?",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
+          "id": "No",
+          "text": "No"
         },
         {
-            "id": "MentalDisability",
-            "type": "HorizontalRadioButton",
-            "text": "Is this person living with a mental disability?",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
-        },
-        {
-            "id": "ChronicMedicalIllness",
-            "type": "HorizontalRadioButton",
-            "text": "Is this person living with a chronic medical illness?",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
-        },
-        {
-            "id": "PregnantOrLactating",
-            "type": "HorizontalRadioButton",
-            "text": "Is this person pregnant or breastfeeding?",
-            "note": "",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "focal_point_details_continue_button": "Continue",
-    "focal_point_details_back_button": "Back",
-    "family_members_title": "Family Members",
-    "family_members_focal_point": "Focal Point",
-    "family_members_other_adults": "Other Adults in the Family",
-    "family_members_children": "Children in the Family",
-    "family_members_other_adults_name_hint": "Name...",
-    "family_members_other_adults_surname_hint": "Surname...",
-    "family_members_children_name_hint": "Name...",
-    "family_members_children_surname_hint": "Surname...",
-    "family_members_continue_button": "Continue",
-    "family_members_back_button": "Back",
-    "loop_members_title": "Provide ID for all members",
-    "loop_members_focal_point": "Focal Point",
-    "loop_members_other_adults": "Other Adults in the Family",
-    "loop_members_children": "Children in the Family",
-    "loop_members_other_adults_note": "Please register all adults in your family...",
-    "loop_members_children_note": "Please register all children in your family...",
-    "statistics_title": "Statistics",
-    "statistics_description": "Tell us more about you and your family.\n\nThe answers in this section will not impact whether you qualify for financial assistance.",
-    "statistics_items": [
+      ]
+    }
+  ],
+  "focal_point_details_continue_button": "Continue",
+  "focal_point_details_back_button": "Back",
+  "family_members_title": "Family Members",
+  "family_members_focal_point": "Focal Point",
+  "family_members_other_adults": "Other Adults in the Family",
+  "family_members_children": "Children in the Family",
+  "family_members_other_adults_name_hint": "Name...",
+  "family_members_other_adults_surname_hint": "Surname...",
+  "family_members_children_name_hint": "Name...",
+  "family_members_children_surname_hint": "Surname...",
+  "family_members_continue_button": "Continue",
+  "family_members_back_button": "Back",
+  "loop_members_title": "Provide ID for all members",
+  "loop_members_focal_point": "Focal Point",
+  "loop_members_other_adults": "Other Adults in the Family",
+  "loop_members_children": "Children in the Family",
+  "loop_members_other_adults_note": "Please register all adults in your family...",
+  "loop_members_children_note": "Please register all children in your family...",
+  "statistics_title": "Statistics",
+  "statistics_description": "Tell us more about you and your family.\n\nThe answers in this section will not impact whether you qualify for financial assistance.",
+  "statistics_items": [
+    {
+      "id": "Oblast",
+      "text": "Before leaving Ukraine, which oblast did you live in?",
+      "hint": "Select the Oblast...",
+      "type": "Picker",
+      "options": [
         {
-            "id": "Oblast",
-            "text": "Before leaving Ukraine, which oblast did you live in?",
-            "hint": "Select the Oblast...",
-            "type": "Picker",
-            "options": [
-                {
-                    "id": "Cherkasy",
-                    "text": "Cherkasy"
-                },
-                {
-                    "id": "Chernihiv",
-                    "text": "Chernihiv"
-                },
-                {
-                    "id": "Chernivtsi",
-                    "text": "Chernivtsi"
-                },
-                {
-                    "id": "Dnipropetrovsk",
-                    "text": "Dnipropetrovsk"
-                },
-                {
-                    "id": "Donetsk",
-                    "text": "Donetsk"
-                },
-                {
-                    "id": "IvanoFrankivsk",
-                    "text": "Ivano-Frankivsk"
-                },
-                {
-                    "id": "Kharkiv",
-                    "text": "Kharkiv"
-                },
-                {
-                    "id": "Kherson",
-                    "text": "Kherson"
-                },
-                {
-                    "id": "Khmelnytskyi",
-                    "text": "Khmelnytskyi"
-                },
-                {
-                    "id": "Kyiv",
-                    "text": "Kyiv"
-                },
-                {
-                    "id": "Kirovohrad",
-                    "text": "Kirovohrad"
-                },
-                {
-                    "id": "Luhansk",
-                    "text": "Luhansk"
-                },
-                {
-                    "id": "Lviv",
-                    "text": "Lviv"
-                },
-                {
-                    "id": "Mykolaiv",
-                    "text": "Mykolaiv"
-                },
-                {
-                    "id": "Odessa",
-                    "text": "Odessa"
-                },
-                {
-                    "id": "Poltava",
-                    "text": "Poltava"
-                },
-                {
-                    "id": "Rivne",
-                    "text": "Rivne"
-                },
-                {
-                    "id": "Sumy",
-                    "text": "Sumy"
-                },
-                {
-                    "id": "Ternopil",
-                    "text": "Ternopil"
-                },
-                {
-                    "id": "Vinnytsia",
-                    "text": "Vinnytsia"
-                },
-                {
-                    "id": "Volyn",
-                    "text": "Volyn"
-                },
-                {
-                    "id": "Zakarpattia",
-                    "text": "Zakarpattia"
-                },
-                {
-                    "id": "Zaporizhzhia",
-                    "text": "Zaporizhzhia"
-                },
-                {
-                    "id": "Zhytomyr",
-                    "text": "Zhytomyr"
-                }
-            ]
+          "id": "Cherkasy",
+          "text": "Cherkasy"
         },
         {
-            "id": "RomaniaArrivalDate",
-            "hint": "",
-            "text": "When was your arrival date in Romania?",
-            "type": "DateTextField"
+          "id": "Chernihiv",
+          "text": "Chernihiv"
         },
         {
-            "id": "UkrainianBankAccount",
-            "text": "Do you have access to a bank account in Ukraine?",
-            "hint": "",
-            "type": "HorizontalRadioButtonConditional",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ],
-            "conditionItem": {
-                "id": "Yes",
-                "item": {
-                    "id": "UkrainianBankName",
-                    "hint": "Enter your primary bank",
-                    "text": "What is your primary bank in Ukraine?"
-                }
-            }
+          "id": "Chernivtsi",
+          "text": "Chernivtsi"
         },
         {
-            "id": "ConsentForSharing",
-            "text": "The Romanian Red Cross and the IFRC work with other non-governmental (charity) organizations to help people from Ukraine displaced by the conflict. To work together to provide assistance, we need to be able to share your identity and contact details so they can reach out to you.\n\nDo you consent?",
-            "hint": "",
-            "type": "HorizontalRadioButton",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
+          "id": "Dnipropetrovsk",
+          "text": "Dnipropetrovsk"
         },
         {
-            "id": "ConsentForPhotos",
-            "text": "To help the Red Cross improve the speed and convenience of the application process for all, we would like to retain your selfie photos for up to 2 weeks. This will help us understand how we can improve our internal systems and processes. After 2 weeks your selfies with documents will be fully deleted from our system.\n\nDo you consent?",
-            "hint": "",
-            "type": "HorizontalRadioButton",
-            "options": [
-                {
-                    "id": "No",
-                    "text": "No"
-                },
-                {
-                    "id": "Yes",
-                    "text": "Yes"
-                }
-            ]
+          "id": "Donetsk",
+          "text": "Donetsk"
+        },
+        {
+          "id": "IvanoFrankivsk",
+          "text": "Ivano-Frankivsk"
+        },
+        {
+          "id": "Kharkiv",
+          "text": "Kharkiv"
+        },
+        {
+          "id": "Kherson",
+          "text": "Kherson"
+        },
+        {
+          "id": "Khmelnytskyi",
+          "text": "Khmelnytskyi"
+        },
+        {
+          "id": "Kyiv",
+          "text": "Kyiv"
+        },
+        {
+          "id": "Kirovohrad",
+          "text": "Kirovohrad"
+        },
+        {
+          "id": "Luhansk",
+          "text": "Luhansk"
+        },
+        {
+          "id": "Lviv",
+          "text": "Lviv"
+        },
+        {
+          "id": "Mykolaiv",
+          "text": "Mykolaiv"
+        },
+        {
+          "id": "Odessa",
+          "text": "Odessa"
+        },
+        {
+          "id": "Poltava",
+          "text": "Poltava"
+        },
+        {
+          "id": "Rivne",
+          "text": "Rivne"
+        },
+        {
+          "id": "Sumy",
+          "text": "Sumy"
+        },
+        {
+          "id": "Ternopil",
+          "text": "Ternopil"
+        },
+        {
+          "id": "Vinnytsia",
+          "text": "Vinnytsia"
+        },
+        {
+          "id": "Volyn",
+          "text": "Volyn"
+        },
+        {
+          "id": "Zakarpattia",
+          "text": "Zakarpattia"
+        },
+        {
+          "id": "Zaporizhzhia",
+          "text": "Zaporizhzhia"
+        },
+        {
+          "id": "Zhytomyr",
+          "text": "Zhytomyr"
         }
-    ],
-    "statistics_continue_button": "Continue",
-    "statistics_back_button": "Back",
-    "confirmation_title": "Confirmation",
-    "confirmation_thank_you": "Thank you for your submission!",
-    "confirmation_registration_id_description": "Your registration code is",
-    "confirmation_description": "What is next?\n\nYour application will be reviewed. You can check your status using the automated chat channel.\n\nPlease do not submit a second registration. That will slow down your process.\n\nDo not share your reference number with anyone.\n\nRed Cross assistance is always free.\n\nAdditional Resources\n\nInformation for Ukrianians in Romania\nhttps://dopomoha.ro/uk\n\nUkrainian Embassy in Romania\nhttps://romania.mfa.gov.ua/\n",
-    "confirmation_experience_title": "How was your experience?",
-    "confirmation_experience": [
+      ]
+    },
+    {
+      "id": "RomaniaArrivalDate",
+      "hint": "",
+      "text": "When was your arrival date in Romania?",
+      "type": "DateTextField"
+    },
+    {
+      "id": "UkrainianBankAccount",
+      "text": "Do you have access to a bank account in Ukraine?",
+      "hint": "",
+      "type": "HorizontalRadioButtonConditional",
+      "options": [
         {
-            "id": "Sad",
-            "text": "â˜¹ï¸"
+          "id": "No",
+          "text": "No"
         },
         {
-            "id": "Neutral",
-            "text": "ðŸ˜"
-        },
-        {
-            "id": "Happy",
-            "text": "ðŸ™‚"
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "confirmation_finish_button": "Finish",
-    "contact_channels_title": "Contact Channels",
-    "contact_channels_description": "Verify at least one of the channels so we can communicate with you.",
-    "contact_channels": [
+      ],
+      "conditionItem": {
+        "id": "Yes",
+        "item": {
+          "id": "UkrainianBankName",
+          "hint": "Enter your primary bank",
+          "text": "What is your primary bank in Ukraine?"
+        }
+      }
+
+    },
+
+    {
+      "id": "ConsentForSharing",
+      "text": "The Romanian Red Cross and the IFRC work with other non-governmental (charity) organizations to help people from Ukraine displaced by the conflict. To work together to provide assistance, we need to be able to share your identity and contact details so they can reach out to you.\n\nDo you consent?",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
         {
-            "id": "Viber",
-            "text": "Viber"
+          "id": "No",
+          "text": "No"
         },
         {
-            "id": "Telegram",
-            "text": "Telegram"
+          "id": "Yes",
+          "text": "Yes"
         }
-    ],
-    "contact_channels_back_button": "Back",
-    "contact_channels_continue_button": "Continue",
-    "contact_channels_detail_back_button": "Back",
-    "contact_channels_detail_continue_button": "Continue",
-    "contact_channels_viber_title": "Add Viber",
-    "contact_channels_viber_get_code_description": "Tap the Button below to Open Viber",
-    "contact_channels_viber_get_code_button": "Go to IFRC Bot",
-    "contact_channels_viber_say_hi_title": "Say Hi to the IFRC Bot and receive a Code",
-    "contact_channels_viber_enter_code_description": "Enter the code below",
-    "contact_channels_viber_enter_code_hint": "Code",
-    "contact_channels_viber_url": "viber://pa?chatURI=ifrcbot",
-    "contact_channels_whatsapp_title": "Add Telegram",
-    "contact_channels_whatsapp_get_code_description": "Tap the Button below to IFRC Bot on Telegram",
-    "contact_channels_whatsapp_get_code_button" : "Go to IFRC Bot",
-    "contact_channels_whatsapp_say_hi_title" : "Say Hi to the IFRC Bot and Receive a Code",
-    "contact_channels_whatsapp_enter_code_description" : "Enter the code below",
-    "contact_channels_whatsapp_enter_code_hint" : "Code",
-    "contact_channels_whatsapp_url" : "https://t.me/ifrcbot"
+      ]
+    },
+    {
+      "id": "ConsentForPhotos",
+      "text": "To help the Red Cross improve the speed and convenience of the application process for all, we would like to retain your selfie photos for up to 2 weeks. This will help us understand how we can improve our internal systems and processes. After 2 weeks your selfies with documents will be fully deleted from our system.\n\nDo you consent?",
+      "hint": "",
+      "type": "HorizontalRadioButton",
+      "options": [
+        {
+          "id": "No",
+          "text": "No"
+        },
+        {
+          "id": "Yes",
+          "text": "Yes"
+        }
+      ]
+    }
+  ],
+  "statistics_continue_button": "Continue",
+  "statistics_back_button": "Back",
+  "confirmation_title": "Confirmation",
+  "confirmation_thank_you": "Thank you for your submission!",
+  "confirmation_registration_id_description": "Your registration code is",
+  "confirmation_description": "What is next?\n\nYour application will be reviewed. You can check your status using the automated chat channel.\n\nPlease do not submit a second registration. That will slow down your process.\n\nDo not share your reference number with anyone.\n\nRed Cross assistance is always free.\n\nAdditional Resources\n\nInformation for Ukrianians in Romania\nhttps://dopomoha.ro/uk\n\nUkrainian Embassy in Romania\nhttps://romania.mfa.gov.ua/\n",
+  "confirmation_experience_title": "How was your experience?",
+  "confirmation_experience": [
+
+    {
+      "id": "Sad",
+      "text": "☹️"
+    },
+    {
+      "id": "Neutral",
+      "text": "😐"
+    },
+    {
+      "id": "Happy",
+      "text": "🙂"
+    }
+  ],
+  "confirmation_finish_button": "Finish",
+  "contact_channels_title": "Contact Channels",
+  "contact_channels_description": "Verify at least one of the channels so we can communicate with you.",
+  "contact_channels": [
+    {
+      "id": "Viber",
+      "text": "Viber"
+    },
+    {
+      "id": "Telegram",
+      "text": "Telegram"
+    }
+  ],
+  "contact_channels_back_button": "Back",
+  "contact_channels_continue_button": "Continue",
+  "contact_channels_detail_back_button": "Back",
+  "contact_channels_detail_continue_button": "Continue",
+
+  "contact_channels_viber_title": "Add Viber",
+  "contact_channels_viber_get_code_description": "Tap the Button below to Open Viber",
+  "contact_channels_viber_get_code_button": "Go to IFRC Bot",
+  "contact_channels_viber_say_hi_title": "Say Hi to the IFRC Bot and receive a Code",
+  "contact_channels_viber_enter_code_description": "Enter the code below",
+  "contact_channels_viber_enter_code_hint": "Code",
+  "contact_channels_viber_url": "viber://pa?chatURI=ifrcbot",
+  
+  "contact_channels_telegram_title": "Add Telegram",
+  "contact_channels_telegram_get_code_description": "Tap the Button below to IFRC Bot on Telegram",
+  "contact_channels_telegram_get_code_button": "Go to IFRC Bot",
+  "contact_channels_telegram_say_hi_title": "Say Hi to the IFRC Bot and Receive a Code",
+  "contact_channels_telegram_enter_code_description": "Enter the code below",
+  "contact_channels_telegram_enter_code_hint": "Code",
+  "contact_channels_telegram_url": "https://t.me/ifrcbot",
+  
+  "contact_channels_whatsapp_title" : "Add Whatsapp",
+  "contact_channels_whatsapp_get_code_description" : "Open Whatsapp",
+  "contact_channels_whatsapp_get_code_button" : "Open Whatsapp",
+  "contact_channels_whatsapp_say_hi_title" : "Say Hi",
+  "contact_channels_whatsapp_enter_code_description" : "Enter the code below",
+  "contact_channels_whatsapp_enter_code_hint" : "Code",
+  "contact_channels_whatsapp_url" : "https://wa.me/12674034001",
+  
 }
