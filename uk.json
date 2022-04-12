@@ -526,7 +526,7 @@
   "contact_channels_telegram_say_hi_title": "Передайте привіт IFRC Bot і отримайте код",
   "contact_channels_telegram_enter_code_description": "введіть код наведений нижче",
   "contact_channels_telegram_enter_code_hint": "код",
-  "contact_channels_telegram_url": "https://t.me/ifrcbot"
+  "contact_channels_telegram_url": "https://t.me/ifrcbot",
   
   "contact_channels_whatsapp_title": "Додайте Telegram",
   "contact_channels_whatsapp_get_code_description": "Натисніть кнопку нижче, щоб відкрити Telegram",
