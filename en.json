@@ -162,17 +162,20 @@
     {
       "id": "DocumentNumber",
       "text": "Document Number",
-      "hint": "Document Number..."
+      "hint": "Document Number...",
+      "note" : "Note"
     },
     {
       "id": "GivenName",
       "text": "Given Name",
-      "hint": "Name..."
+      "hint": "Name...",
+      "note" : "Note"
     },
     {
       "id": "FamilyName",
       "text": "Family Name",
-      "hint": "Family Name..."
+      "hint": "Family Name...",
+      "note" : "Note"
     },
     {
       "id": "Sex",
@@ -188,13 +191,15 @@
           "id": "Male",
           "text": "Male"
         }
-      ]
+      ],
+      "note" : "Note"
     },
     {
       "id": "DateOfBirth",
       "text": "Date of Birth",
       "hint": "",
-      "type": "DateTextField"
+      "type": "DateTextField",
+      "note" : "Note"
     }
   ],
   "focal_point_identity_title": "Focal Point Identity",
