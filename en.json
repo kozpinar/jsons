@@ -163,19 +163,18 @@
       "id": "DocumentNumber",
       "text": "Document Number",
       "hint": "Document Number...",
-      "note" : "Note"
+      "note" : "* Example note text"
     },
     {
       "id": "GivenName",
       "text": "Given Name",
       "hint": "Name...",
-      "note" : "Note"
+      "note" : "* Another example note text "
     },
     {
       "id": "FamilyName",
       "text": "Family Name",
       "hint": "Family Name...",
-      "note" : "Note"
     },
     {
       "id": "Sex",
@@ -192,14 +191,14 @@
           "text": "Male"
         }
       ],
-      "note" : "Note"
+      "note" : "* Lorem"
     },
     {
       "id": "DateOfBirth",
       "text": "Date of Birth",
       "hint": "",
       "type": "DateTextField",
-      "note" : "Note"
+      "note" : "* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis feugiat enim felis, ac placerat mauris aliquam et. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer sed suscipit est. Nulla facilisi. Vivamus sagittis convallis est, et commodo velit rhoncus vel. Mauris aliquet tincidunt rutrum. Maecenas suscipit purus et magna vestibulum elementum. Maecenas consectetur sagittis est, ut maximus nibh. Sed a euismod eros, nec bibendum diam."
     }
   ],
   "focal_point_identity_title": "Focal Point Identity",
