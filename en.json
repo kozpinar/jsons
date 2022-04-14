@@ -9,6 +9,7 @@
       "text": "УКРАЇНСЬКИЙ"
     }
   ],
+  "common_error_dialog_close_button" : "Close",
   "landing_title": "Financial Assistance Program - Ukraine Crisis",
   "landing_description": "The Romanian Red Cross, with support from IFRC, is providing financial assistance to citizens people who have been displaced to Romania by the conflict in Ukraine.\n\nThrough this app you can apply for assistance whever you are, submit documents, and receive notification of the result of your application. Red Cross assistance is free and you should not be asked for anything in exchange if you are, please report it to [XXXXXX].\n\nThe assistance is to help you best meet the needs of you and your family.\n\nTo get through the application, have ready:\n\n1. Identity documents for everyone in your household.\n2. Left Ukraine because of the crisis.\n3. Be one of these categories:\n- Female headed households\n- Households with 2 or more children\n- Has a member of the family living with a disability\n- Has a member of the household that is elderly (60+)\n- Households with pregnant or lactating women\n- Single female with no other adult member\n- Lack of free access to health care\n\nIf we cannot verify your identity, you will recieve a message with information on what to do next.\n\nFor safety purposes:\n\nDo not trust or pay 3rd parties who claim they can help you access this program.\nWe do not distribute financial assistance to minors/children",
   "landing_continue_button": "Start Registration",
